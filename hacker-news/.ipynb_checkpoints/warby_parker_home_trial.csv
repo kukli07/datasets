@@ -1,0 +1,751 @@
+user_id,number_of_pairs,address
+31b2b185-aca9-4823-8314-77042d62820b,5 pairs,45 Chincoteague Rd
+0946da04-9a3c-476c-adf1-00d3dfb9ec76,5 pairs,453 Platt St
+b9d42b71-1165-493e-b58d-88fa313bfad9,5 pairs,464 Indian Rd
+98574def-ed99-4fdb-9dc9-ecfbe6bfafc9,3 pairs,2 Rector Pl
+f928ea8f-462d-403f-9b79-f3104b6636f4,3 pairs,379 Rutherford Pl
+a03a2ee7-95bc-495b-854d-d0bc8a112996,3 pairs,301 Doyers St
+a072e199-8365-4531-b973-bfc6dca35ca1,3 pairs,171 Bennett Ave
+c5f43bc4-3a23-45d1-989f-79c8460e5dda,5 pairs,208 Rector Pl
+4918065f-ee68-4a43-a084-fc10a44235d1,5 pairs,290 Gouverneur Slip E
+597b59bb-53fa-427f-b231-b0630073df8b,5 pairs,44 Minetta St
+60caa5cd-0178-44b6-bf67-a6b7c1d8fa48,3 pairs,12 Ludlow St
+012aaeed-f8fb-47b8-b0b4-ee3c193ff466,5 pairs,134 Worth St
+62806531-09cf-4f71-9718-0aa97ecd3cfa,5 pairs,232 Academy St
+a017c75e-e53f-40fa-9c93-a510fb25a747,5 pairs,84 Washington Square N
+2660e84d-a652-4f95-91f3-3d283cb64cf5,3 pairs,145 Baxter St
+708af020-4273-45ca-8b3f-a0efaa846925,3 pairs,239 Pine St
+1316eba1-7398-4d6c-88d5-b7d829e2ecc8,3 pairs,337 Central Park Driveway
+02cad226-5120-485b-a7e3-7ad6e5e9d9c7,3 pairs,190 Luis Munoz Marin Blvd
+4320651b-2bac-4533-b8e6-9c0b69b8df5e,5 pairs,413 Murray St
+c4498ea2-190b-49d4-96c0-0bd3c96e35b0,3 pairs,184 Greene St
+cd303c07-5abd-466b-9608-f9963fcd2e7c,5 pairs,482 Sutton Pl S
+97186edc-efc4-44d5-9a41-dc3a23ae6d24,5 pairs,353 Hamilton Pl
+5e48dae3-a6d7-483c-bdbb-ec3f908c27c6,3 pairs,157 Greenwich Ave
+eabe02ec-67b8-483b-9771-e88aec7f8376,5 pairs,225 Washington St
+081bc6a6-cfa0-46ad-ba51-a1240019cf95,3 pairs,118 Murray St
+96cf6037-4dc4-4b0c-b84b-ffb463d0960a,3 pairs,307 Battery Park Underpass
+656bf0c4-c122-45f9-86f2-373a5eb62e23,5 pairs,7 Gresham Rd
+4bb03169-2d28-4261-92fa-9dda08417cae,3 pairs,484 Overlook Terrace
+36e1cee1-35fd-4197-80a8-519d7d94ef09,5 pairs,283 Arden St
+785d87f7-7381-4f64-99bb-e1ffc47913a1,5 pairs,328 Parks Ave
+a91fc214-71d0-418a-8aa8-be20e301f832,5 pairs,164 Washington St
+f45b4321-54e6-4277-9523-32379aac569e,5 pairs,63 Clayton Rd
+5aa482e3-f119-45e2-98d3-c0a404edcb6e,3 pairs,302 Benson St
+b2a28ffd-106e-4c23-bfed-1b4291c53979,3 pairs,370 Cathedral Pkwy
+d592d6d4-d447-4089-8eea-482c757aa7bd,5 pairs,100 Washington Bridge
+458e1481-b26f-44f6-8179-9e3ab1297367,5 pairs,400 Marginal St
+cfb44e0f-f067-43be-8bc8-8f740c20d503,5 pairs,101 Orchard St
+808f527e-51fd-42c6-b2a2-a2dad7133a0b,5 pairs,37 Battery Park Underpass
+88fd329d-96fa-4ff0-94b7-0d9996a04e7f,3 pairs,173 West St
+bcc2c6c6-2606-401e-990a-f5a23dd83fea,3 pairs,472 Lewis St
+bae340b3-8f78-4bf6-9809-e56c5ed75a4b,3 pairs,196 Mc Nally Plaza
+c61ef2ff-e2a5-4049-828d-30972cd2cccc,3 pairs,285 Pinehurst Ave
+69e40dad-2984-439a-b140-86be2f4069cc,5 pairs,282 Lewis St
+2784b2b0-6d0a-419d-9494-bb3790436f39,3 pairs,28 Harlem River Dr
+7080ee31-7b45-49fa-9a44-3204bb266b71,3 pairs,283 Desbrosses St
+b56c0775-fe08-4b86-8910-f4fb7d45f3f5,5 pairs,389 Asser Levy Pl
+602299e7-b445-4195-9580-44421cc4bee1,5 pairs,163 Stuyvesant Walk
+1502b8f1-fca2-41eb-b393-3f52373095bc,5 pairs,264 Riverside Blvd
+7e9de607-9ecc-42c0-b8df-19f277324abf,3 pairs,8 Gramercy Park N
+02bdad35-46d3-4fc6-94a5-2db10dbf319d,5 pairs,351 Owasco Rd
+066ec74a-51cb-4da4-8bd9-18709f0de4fb,5 pairs,145 Minetta St
+550fdc5b-f3ba-4283-b2bf-16141d195151,5 pairs,132 Meyer Square
+586ad43c-1a78-4423-b4b7-4073d98c82fb,3 pairs,404 Odell Clark Pl
+211b6fe8-aafb-4406-ba76-dcf9363fa0d8,3 pairs,391 Gouverneur St
+e55c657f-3fd1-43e8-beb0-de2ce8418f21,3 pairs,295 Pell St
+c8d9a2c2-d38b-4421-8320-72b81db2fc80,3 pairs,85 Peter Cooper Rd
+71d61658-1695-4a59-92ce-3f04bd4affd8,3 pairs,232 Stuyvesant St
+11793cc1-c1ee-4d2f-8f43-a027a922d0d7,3 pairs,437 Doris C Freedman Pl
+a6f69509-175a-4c5f-b9a8-6003b0054514,3 pairs,281 Maiden Ln
+4fbb3ad2-5320-43b9-a896-5d319187b847,3 pairs,161 Laurel Hill Terrace
+a4aac0b7-eb72-46b5-b7d4-2b7f623ff2e5,5 pairs,420 Williamsburg Bridge
+3d6c39c4-d565-4f0c-9950-2e57929f987e,3 pairs,482 South St
+5e0e8687-1de5-4a9c-a3bf-9529a3244d75,5 pairs,140 Frederick Douglass Blvd
+cd5c37d5-b46e-43bb-8432-37ffadfaa6e2,5 pairs,86 Spruce St
+e3e3993e-e339-44e9-93e3-d90aefb500dd,3 pairs,246 Washington St
+f01f9639-d8d0-443f-9bc1-1b5f11ed0cd4,5 pairs,263 Rector Pl
+672c3f1e-d6e2-4d8e-a50e-fcad899ee89d,5 pairs,169 Williamsburg Bridge
+b21f1d01-ede0-4246-a6e9-c95b3601c319,3 pairs,59 Macombs Dam Bridge
+f6dca021-2cfb-4bbe-a08c-591a230a379e,5 pairs,254 Hubert St
+83cf4d3d-1fdb-4c49-9b31-112bbb52b924,5 pairs,468 Short Ave
+15fec4f4-cda3-4eff-8b74-4029bc3de3a8,5 pairs,31 Mercer St
+1edbba62-484f-45b8-8a5f-caf0afd13715,5 pairs,54 Lafayette St
+b3df0312-d585-4c0e-bce3-551d75f6b01d,3 pairs,325 Little W St
+a4f66ecf-a3c0-415f-8a3b-86f13729dba2,5 pairs,255 Washington Terrace
+9ca9e603-72e4-43b2-b8a9-ff5d2febde9c,5 pairs,186 Brooklyn Battery Tunnel
+30307b23-43ec-4d7d-9336-01f438eeffdc,3 pairs,344 New York Plaza
+15b0707b-ebfe-49e2-baab-9fe531725b52,5 pairs,151 Weehawken St
+151374af-95b7-485b-bebd-f975c26a6911,5 pairs,112 Murray St
+60f6d508-8660-4e57-af0d-5df799254288,5 pairs,74 Randalls Is Rd
+f108a832-1cf7-412a-8fe5-2f25b81983a0,3 pairs,365 Hanover Square
+5d16bfb3-8496-445c-a5fa-4d031c554aa5,5 pairs,242 Dyer Ave
+94d04ed3-4fdb-4f3a-a38d-1782abdbd70e,3 pairs,155 Marble Hill Ave
+b52d01cc-7dc0-41f1-974f-91d5849a4fd8,3 pairs,119 Centre St
+68d73eed-fe50-4509-bbfa-cfa14c26e605,5 pairs,336 St Nicholas Terrace
+d898c22e-1a20-45e9-8c62-784dfb420b16,5 pairs,223 Bialystoker Pl
+a2ce4742-b87d-4775-8ffa-e2a40141bccc,3 pairs,384 Spruce St
+5d11adc7-6e36-4560-a937-3b03cded7d37,5 pairs,178 Rockefeller Plaza
+cb0ddc47-0b3c-4315-89e0-a16f66c2b629,5 pairs,316 Abingdon Square
+76aa1ef9-715f-40a8-99c8-9b5e5504881b,5 pairs,371 Charlton St
+143041e7-8c37-4399-b54d-9115f234800b,5 pairs,180 Mill Ln
+aa358ebd-938c-48c3-bff4-5300f9fe9997,5 pairs,131 Avenue A
+1b6c34de-9ed1-4ca6-b864-def41d6a09c4,5 pairs,140 Jane St
+56842446-17d5-4766-b65a-ebb6bfd27358,5 pairs,123 Szold Pl
+19cb4fb2-2616-40d0-83c5-3d6be0f05884,3 pairs,308 Central Park West
+41ac61e7-1a93-4600-bb47-77f3a347cf2b,3 pairs,480 Lafayette St
+e45f88c2-5c0e-425d-b489-15b688b50caa,5 pairs,212 Park Pl
+152804db-c571-498f-97f0-73ecd2ed2e24,5 pairs,467 North End Ave
+f85f4cad-26bc-4e16-a9dd-9c421a82436b,3 pairs,219 Horatio St
+da6cf150-c3fa-43d3-9764-0e0a23a6caf9,5 pairs,62 Jersey St
+14bfad9b-5e32-44b3-9813-e95093922369,5 pairs,151 Bradhurst Ave
+098c5616-a18d-4e0f-81f8-f2c64a3f111c,5 pairs,312 Greene St
+c5daf910-d372-4c46-ae42-59c04084ff69,5 pairs,376 Malcolm X Blvd
+e25358bc-6303-47fe-bfa0-e21d61e2610e,3 pairs,287 Platt St
+07cda62a-dab3-46ed-bcda-65a1200affc3,5 pairs,75 Washington Mews
+ede65ebe-4649-4c52-93a4-52d86ceaba0c,5 pairs,385 Marble Hill Ln
+2f391e8d-38fa-4095-b0bd-f5277b9a9feb,3 pairs,312 Clayton Rd
+302fbdc7-90cd-4cd6-abdc-179fb806e4c7,3 pairs,269 Avenue A
+afaf21ed-62e2-4c8c-a644-a73dbafae8aa,3 pairs,69 Warren St
+2f3eb3cd-bbc5-4448-9dde-e177a3264b6c,5 pairs,2 Adrian Ave
+79f3e7d1-ae1f-4682-9564-4eeacea3c54c,5 pairs,73 Sutton Square
+5f350749-6f5c-470e-83bb-e96587303bca,3 pairs,337 Washington Terrace
+1a636041-2705-4bd2-bf1b-317a344ef113,3 pairs,280 Park Ave S
+e1c46231-4c11-4821-8f31-38f58b4a3397,3 pairs,197 Central Park S
+40eebabb-ec38-4641-a15d-ce16c08e3c36,5 pairs,417 Hudson St
+ccd427e8-35bc-466b-8550-5943219de137,5 pairs,315 Cliff St
+5bfc8571-9cea-4b71-88d0-f1096f25c684,3 pairs,162 Cooper St
+9fbacd16-9f55-4c9a-a5dc-fbe876d8e144,5 pairs,88 Willis Ave Bridge
+9173a444-d354-4861-9493-d984963c9bd1,3 pairs,304 Gouverneur Slip W
+72767666-7037-45a2-a206-fafe8f82a27f,5 pairs,221 Mott St
+6c84d7c4-acf3-47f9-9fdc-757bd76340df,3 pairs,45 West St
+e9c428c5-290b-4625-b7d4-6ac48208c657,3 pairs,78 Parks Ave
+2c8f9a3b-c6eb-4cf7-a594-7230fd5d591d,3 pairs,79 W Houston St
+2e42227e-6ca5-41f2-95ac-5cc21b54bf46,3 pairs,226 Craig Rd N
+b1d285f3-a80d-4bb7-adca-1ce826d400b8,5 pairs,165 George Washington Bridge
+0c414186-1592-4f86-8283-7ba78c85b926,3 pairs,185 Commerce St
+dbebd3b5-ef9b-4b31-9ca7-be6318ce48e7,5 pairs,152 Spruce St
+4d53bec8-b611-4538-9280-1bda25985492,5 pairs,370 Dongan Pl
+a9d746ec-6aed-486d-99eb-ecc32e984ab6,5 pairs,64 Odell Clark Pl
+0af231dd-f0ae-4c04-8193-38d501e14da5,5 pairs,163 Macdougal St
+374c69e9-a78b-4c92-963c-6ba877a1528f,5 pairs,51 Sullivan St
+a28d5e96-30b6-4368-8f79-9cec16c776c0,3 pairs,29 Sullivan St
+63998c25-1877-412c-9b36-1636d0b078f8,3 pairs,118 Whitehall St
+b3a1ad86-a74e-4b66-86bc-30edef7b70a1,5 pairs,353 W Thames St
+3dcfddb6-0ad6-4e23-b131-49d7f1092c3d,5 pairs,187 Marble Hill Ave
+89c4e0cc-f9bc-46c9-88a0-8b3a6dda1b10,3 pairs,180 Bogardus Pl
+0afacbef-7346-4d22-8efb-ff93a53cfcdd,5 pairs,404 Samuel Dickstein Plaza
+f1eff90f-9985-41cc-a57c-1e193a3f6793,5 pairs,474 Delancey St S
+867b4ba2-6aa8-47da-97c6-1d2e4d0f16a1,3 pairs,0 Henry St
+f67f08ae-aa92-4b18-af54-db7095c63338,5 pairs,317 Montgomery St
+188bcf8b-d333-4c65-8dd1-3210752f5ea4,5 pairs,373 Rector St
+b85e9471-4060-4c4b-9f2c-8bfc04194380,3 pairs,276 Gracie Square
+da1194b5-9ad8-40d8-b0cc-22795aaa56ff,3 pairs,130 Albany St
+22f18cd7-3c3c-408f-b6b1-0064311b77de,5 pairs,4 Central Rd
+9d712fd8-d662-42d1-8ec0-e04ef0fd8178,5 pairs,292 Beaver St
+368f242a-e5af-4bf7-b166-ba04aae771f3,5 pairs,95 Mc Nally Plaza
+6b766c12-ba30-49bf-9d1d-02cc05c590d4,3 pairs,105 Staff St
+57a09add-8b8e-495b-8e5e-ef97c1391abf,3 pairs,362 Greenwich St
+e94ed798-2d21-4800-93ee-9da64e3843e0,3 pairs,208 Hubert St
+b5988330-7f6a-4e79-b03d-72b0b1573368,5 pairs,227 Joe Dimaggio Hwy
+fba29ff7-0fa0-44ea-ad57-4f76f7b9f42b,3 pairs,411 Sickles St
+676c9453-cb8f-464f-abe7-e0fdf7324cc7,3 pairs,456 Barry Rd
+9b9228ea-cc48-4b72-bfa4-f8f977032683,3 pairs,75 Arden St
+6e1fa513-0564-478f-a5ec-38a640681194,3 pairs,220 Marble Hill Ln
+a3c131c1-d1d0-41da-b58b-e6f4b9c8b0c8,5 pairs,395 Park Ave
+bd5ad508-50e7-4db7-973a-1b280b3c2c22,5 pairs,154 Centre St
+5166170f-8ec6-44ee-8701-2a54f13d71ce,3 pairs,268 Downing St
+23b4616b-1067-41ed-8322-c5d3ce954b38,3 pairs,396 Dongan Pl
+be0f9aa0-b0cc-4faf-b053-4013a00956c0,5 pairs,1 Canal St
+2d8b234c-79fc-44b6-9dfa-ed91c2f1d656,5 pairs,273 Freedom Pl
+10992c98-81ef-492a-a96e-f317ef49fa3b,3 pairs,256 Barrow St
+6922c126-2426-4c91-835c-295e9d3d2c5a,5 pairs,380 Central Park West
+9ab9de33-b199-446f-a743-1faeacf2697c,3 pairs,394 Harlem River Dr
+eb84fcd6-ed1e-471c-bf8c-76b19beb937b,5 pairs,79 Stuyvesant Walk
+78b914a4-ecba-4471-9697-ee8f31826836,3 pairs,101 Greenwich St
+a843a290-9753-43a9-881e-59a5cabfa6a9,5 pairs,27 Gouverneur Slip E
+f0d140d1-a6a2-42d1-93a2-b795c3bc834f,5 pairs,9 W Thames St
+736b9719-4e2b-49c6-8bbc-30d22be998d1,5 pairs,401 Laurel Hill Terrace
+2c0713b3-540d-4cef-bbc5-edff124358e4,5 pairs,222 Nassau St
+261c2590-d4dc-431e-a2a6-b495a13a938b,5 pairs,431 Morton St
+2d2e0216-7116-4db6-937c-8991e38817b7,3 pairs,484 Beekman Pl
+e095b29a-2267-4360-a723-0c96a85c3bab,5 pairs,288 Gold St
+36ca2eaf-d14d-4c7e-bc25-30d46a7c6472,5 pairs,430 Donnellon Square
+3a3f4a2d-1511-4059-b87e-e2a503a587bb,5 pairs,332 S William St
+1a8ff8ae-ab2f-4c34-9fdf-d246b366de52,3 pairs,208 Gramercy Park W
+27866aaa-80c0-4960-aeef-01648820e9f4,5 pairs,37 Suffolk Street Community Garden
+311ed449-5686-4b04-9d58-6ec43d81f4b3,5 pairs,53 Murray St
+01bfb854-06c7-4b6c-a350-a9dda10a84f4,3 pairs,431 Columbus Cir
+ebb6479a-25ee-4449-aec7-4a784f33607a,3 pairs,9 Gouvernour St
+b2175bf3-4831-4519-8c0e-ef1f5786937c,3 pairs,263 Washington Square S
+69cce3ba-49ab-470a-80dd-09de441c37ae,5 pairs,266 Gouverneur Slip E
+2c9c49bd-0d6d-4f57-94a8-7566edf12bf9,3 pairs,417 Mac Dougal Alley
+3c051485-4f17-456b-b402-7be64ea053c8,3 pairs,302 Mt Carmel Pl
+f7fc1639-d320-462e-ac53-dbe6007fd705,3 pairs,107 Overlook Terrace
+79b1d4c3-e6db-4a58-b907-affc82bef4b1,5 pairs,499 Bear Rd
+4d068c6f-d5a8-49f5-a055-6dc3d415502e,5 pairs,2 Henry St
+edf05eba-2710-4143-9fe7-f254ed684e86,5 pairs,230 Harlem River Dr
+555254bd-93e4-4881-bdfc-cf91af799f71,3 pairs,41 W Houston St
+7babfb83-1b7a-45ac-a1fc-1b5eb37da841,3 pairs,154 Cleveland Pl
+32345658-011d-4a45-b268-89844db3b881,3 pairs,105 Parks Ave
+b1062402-d208-479c-900c-1261b822f7f3,5 pairs,44 Ferry Line Rd
+8239741b-e0c1-447d-9f0f-197d1c7f29fb,3 pairs,488 Beekman St
+10524ca6-f9d5-4f38-b316-164602b6c46b,3 pairs,184 Lafayette Ct
+715925c9-197f-4644-898a-2207e44f27f6,3 pairs,1 Abraham Kazan St
+1bdf4b27-f1ec-401e-802f-d6b4f2b72372,5 pairs,464 Grove St
+4d38ad61-18f2-4a6e-a912-4bc338132c1c,3 pairs,248 Stone St
+9ed08560-6654-4b86-a6de-ff58cfb6e35e,5 pairs,468 Jumel Terrace
+cce7c782-897e-4cf9-a5f7-963c0e87a0e7,5 pairs,370 Pearl St
+4d220b5d-e55b-4991-891a-f1df58b7afb5,3 pairs,264 Desbrosses St
+15a305ec-e6a9-4989-8170-ddee27c0b219,3 pairs,74 Henry Hudson Pkwy
+b8341d31-161d-44d9-8050-46b8259bab96,3 pairs,453 West St
+9bc3366b-e22e-4539-a673-bf4ad3e4a2b4,3 pairs,123 St James Pl
+5056c6dd-7891-41f2-953d-d42087d97cc3,3 pairs,318 Riverside Dr W
+eb511280-9813-4adf-8aaf-8b13971f26dc,5 pairs,366 Rockefeller Plaza
+4b4a7596-e0c6-4c01-bdf7-7311c3caa570,3 pairs,411 Jay St
+8f7f40a0-aa55-460f-a9dd-177b2af95668,5 pairs,412 Pike Slip
+0de09b58-0b39-47f2-9822-db8d6eb5d32e,3 pairs,245 Kimball Rd - Governors Island National Monument
+e445dadd-8c67-4aa9-9876-e767b5331e98,5 pairs,451 Jumel Pl
+33842f59-66ca-4242-9156-a9fb49ffe4cd,3 pairs,322 Kimball Rd - Governors Island National Monument
+26d11aba-dd94-4c18-ae11-0df609a9b336,3 pairs,146 Federal Plaza
+c562f7ce-9f71-443d-906f-556e4b5be655,3 pairs,450 Mitchell Pl
+d8ecbd62-af7d-47ca-b754-8f10f51e9557,5 pairs,152 New York Plaza
+bd70c0b4-f620-4601-af95-14b470873653,5 pairs,474 Hamilton Pl
+e9e43c2d-dddd-4a80-a655-23c840e4febb,3 pairs,342 Riverside Dr
+3cbdf084-935d-4e1a-bb38-cde1ee286032,5 pairs,382 Warren St
+079363b6-b693-456a-bf27-79a16fa3328d,5 pairs,288 Avenue Of The Strongest
+df51e5d6-07ff-4f63-976b-eceabe8e377a,3 pairs,314 Lafayette Ct
+ca4e1ac2-9687-4a10-b835-1bc5f372b1be,5 pairs,123 Hancock Pl
+95da8260-abed-4304-92fc-8a89006907c5,3 pairs,163 Stuyvesant Oval
+0fc494e5-4421-4ffb-a057-a76ee9ffb07d,5 pairs,196 Harlem River Dr
+0c77d9b5-c7f6-4a91-b60e-9cc11d2ac5b6,5 pairs,36 Barry Rd
+9f39e1b8-8172-478a-ae1c-c4cefc32f76e,3 pairs,207 Cathedral Pkwy
+405cc9ff-ad3e-4896-912f-87f640fdaf93,5 pairs,220 Wadsworth Ave
+328a7ab3-bdb8-48e0-be93-26b4b0d0c01e,3 pairs,87 Madison St
+1800dea9-7cb9-4882-929a-9625d2a0518b,3 pairs,210 Gustave L. Levy Pl
+ed425b7d-d704-4a4a-9695-2bf0271ceb80,5 pairs,36 Gouvernour St
+ed0c4276-9b7e-48ee-b6f0-5862b5c47001,3 pairs,452 Warren St
+30b37e2a-8ab9-4fd2-be57-9f29f083340e,5 pairs,55 Little W St
+20745cb8-b846-46c8-9925-13cc82e57238,5 pairs,65 Dyer Ave
+3cba3ab7-a7f6-44bc-8873-5efb4aaec3b5,3 pairs,363 Cathedral Pkwy
+8e52eb7b-1a60-4747-bba4-a704fa67451c,3 pairs,392 Lexington Ave
+2b1a3042-bbcd-423f-b7a9-91d11b54f2de,5 pairs,1 Stone St
+f7b5fe06-1e87-465b-a64a-8ed435e1541f,3 pairs,473 Hwy 9
+ad535b73-e9bb-4ca8-a95d-97dc37a50e99,5 pairs,19 Bogardus Pl
+112995e4-3da5-4ccf-b31e-a1d97dcfcdc7,5 pairs,49 Minetta St
+6b1d1d28-2dae-49a3-8ba0-be816af0adbf,3 pairs,217 Marketfield St
+02e30e47-bea4-4658-9f7f-8035f4e1b37f,3 pairs,170 Duane St
+f0fc2b18-097d-4b6e-b769-6b30defdb5b2,3 pairs,282 Abraham Kazan St
+1805768b-546b-4c4c-abaf-95dd4be0a4b1,5 pairs,432 Pike Slip
+5a1286dc-904b-49cc-a738-400742802443,3 pairs,267 South St
+162f04c5-ce93-4771-b8a9-7e891e542c69,3 pairs,28 Franklin D. Roosevelt East River Dr
+f6a1a3eb-83d9-43e1-9c29-88b53bd919e1,3 pairs,55 Bethune St
+bee1079e-f1d2-4c7f-8d38-9f7731c97260,3 pairs,441 Monroe St
+3a88fb4b-6643-4ec7-b9d9-63a36e6c0218,5 pairs,209 Greenwich Ave
+f7cf50aa-8564-480d-9726-f2beb43fafa2,5 pairs,232 Frederick Douglass Cir
+1900dd8b-4587-46a3-b493-1e890e65c9e6,3 pairs,30 Chatham Square
+a99aff66-15e5-4330-af3c-ba2f45faff05,3 pairs,182 Wall St
+07fb2d45-5992-4134-b595-c69ed6ac65e6,3 pairs,221 Sylvan Pl
+5f5b7753-f147-4125-a306-2d80dd32d7d9,5 pairs,232 Hamilton Pl
+111101fb-1e15-4398-94d3-b125b67e5c1f,3 pairs,336 Patchin Pl
+21ff57c1-8266-4e87-a135-8a1179876a9b,3 pairs,499 Malcolm X Blvd
+f8f89c57-dca0-4c0d-8410-b5af27a98736,5 pairs,195 Sutton Square
+2cd0d472-5665-448a-99f1-bfeae3b1ad3b,5 pairs,256 Pinehurst Ave
+56a8e670-0df9-4687-9843-40c7a16cd1c4,5 pairs,222 Orchard St
+5896c0e7-c342-4c67-b56a-32b028d7b0c4,5 pairs,131 River Rd
+b0eb8f36-776b-4743-a41f-aabac79ac07a,3 pairs,128 Dey St
+2c76fd80-b18f-4dae-b20c-5dd803b8aefa,3 pairs,404 Arden St
+8637c8f3-f2b5-41c0-9868-af3dd7a6cd55,5 pairs,411 Lincoln Center Plaza
+a52af196-dd6d-44ec-b02d-05bd352c5e48,5 pairs,231 Mangin St
+e38268a9-e673-4848-af4d-b53977971550,5 pairs,355 Gramercy Park E
+ec598a1e-b1bd-4368-b862-c472dbebec40,5 pairs,1 Robert F Wagner Sr Pl
+617ff6d0-b9fe-40eb-ba87-fb3e8abdc8f4,5 pairs,488 West St
+afa57060-93ba-47c1-ae28-f68dbae5f7da,5 pairs,162 Bloomfield St
+bdaa80ec-aa51-490e-8121-bd1f1124dcd4,3 pairs,324 Collister St
+c64026bf-7353-4c63-9d32-e7c836f972f3,5 pairs,79 Madison Ave
+a32e54fd-84f2-4630-9a23-4382791da81f,3 pairs,383 Baruch Pl
+8c13d220-ac47-4a6c-8c79-9275fbe3c924,3 pairs,49 Cornelia St
+5efdb392-9708-4883-af38-cf201db92ef6,3 pairs,440 Cedar St
+0119cf7d-f15a-4450-87bf-c47862c20580,5 pairs,278 Monroe St
+bc625e11-a2bb-4fae-9cf4-0e1d19ae5b96,3 pairs,126 Fort George Ave
+9da8dde3-fd66-4067-ae64-96cb1d34c0af,5 pairs,274 West St
+399e88a3-ad14-4d95-84b8-2ef46d6affae,3 pairs,152 Wadsworth Terrace
+e8d09cca-3bce-465b-9f3d-2ff8ae7c8ab7,5 pairs,190 Water St
+25557162-e945-46b3-a2a6-ff49389ac304,5 pairs,419 Warren St
+3ca41c8f-6196-44c5-969c-e8a6abaa22e2,5 pairs,78 Central Park Driveway
+7ebe9288-d006-48ae-9409-c73ca06fa69d,5 pairs,17 Frawley Cir
+dde631b5-3763-42cb-aab0-dc3ca6367f03,5 pairs,206 Gouverneur Slip W
+926bcbbd-1dba-42f3-9317-bec9e824ac3e,5 pairs,312 Fort Washington Ave
+16c2c09d-608d-4a89-8bdc-4f49b8f7771f,3 pairs,426 Park Row
+ef4d0704-d3fc-4b14-aba1-473864f708dc,5 pairs,191 Mac Dougal Alley
+cc31fde9-cdd3-4ef7-badc-d5fdc12c2dd0,5 pairs,437 Stone St
+804cc62c-81a7-4fdf-9576-ade89e747e17,5 pairs,388 Craig Rd S
+7cbffd9f-516b-418f-a9ea-8c0ac95a1f3d,3 pairs,159 Jersey St
+a749c340-2474-41d5-9180-2e3bd710066f,5 pairs,135 Mulberry St
+968467ae-5430-4a11-9fb8-abf15798f886,3 pairs,159 Avenue Of The Finest
+35825765-ed76-4b43-9511-3a5284abf9f6,3 pairs,416 Henry St
+fddc7372-c5f9-4f79-85e0-4e181a6e1935,3 pairs,486 Morton St
+4d012b32-de71-4bd1-89d3-a8102e60aee2,5 pairs,275 Craig Rd S
+8f81d7a3-5fc7-468b-a987-cf992f4e57ab,3 pairs,402 Greene Ave
+41659d7f-fb39-438f-8c9a-d191ae3fd038,5 pairs,452 Bialystoker St
+dbd896cc-5654-40ce-ad6a-90d7f724ddac,3 pairs,491 Forsyth St
+42019ba8-4b9b-4145-b935-a5b86360e238,5 pairs,271 Tampa Rd
+a5782bdc-9274-4b84-8419-2671a4a7e12a,3 pairs,332 Washington St
+b5748b3f-eb4c-4df1-ada3-8f5c5392c7e1,5 pairs,470 Washington Pl
+51457671-fe2f-457d-9be2-4805f2e8bd86,5 pairs,49 Clinton St
+d148ea05-26b1-4157-9964-51911eb5cab1,3 pairs,391 Bloomfield St
+72c8988c-ad0c-4d93-9989-4e28631eef8e,5 pairs,232 Orchard St
+974a03c0-30a4-49e5-9492-7d762432a266,3 pairs,39 Gouverneur Slip W
+e71732d4-5cb1-4e3d-8b9a-9bdd29aaef68,3 pairs,4 Madison Ave Bridge
+56e7f7a4-0628-4d4f-9f21-ed779b33fd53,3 pairs,480 Dyer Ave
+09369290-9cdc-4504-aae4-6d3c4c101af2,3 pairs,60 Macombs Dam Bridge
+ea4e772c-0f28-4802-9932-04691007ae82,5 pairs,259 Bayard St
+59e1a90a-9b77-44b1-b2db-93990756535f,3 pairs,102 Malcolm X Blvd
+b592655e-274b-4bf5-86d0-758ec17d9384,5 pairs,438 Centre St
+bf5bf790-aeb0-4e1e-8742-58ec0ffbc6a8,5 pairs,94 Washington Terrace
+93b6a481-1422-4d54-a6a0-939340f5179e,3 pairs,13 Freedom Pl
+49e9f909-b2c7-45e0-9826-6156f11a235e,5 pairs,186 Coenties Alley
+b588bb4c-8547-444f-b64b-0655d946f978,5 pairs,187 Barrow St
+a4595f35-3032-4579-9725-b1abcd5a67a4,3 pairs,329 S Street Viaduct
+fd80accb-c5df-4ecd-adb5-09b06b0ecd7d,5 pairs,227 Bloomfield St
+4f015dcb-1cea-43f7-b276-55c0b6e8c0aa,3 pairs,482 Short Ave
+5c40ee0e-8fd6-4226-8bd8-9c36648308ba,5 pairs,371 Mill Ln
+80f9c7a6-cc97-45a6-84a3-4e1e8b4cb061,5 pairs,127 Craig Rd S
+7260e528-01a2-4ee2-8322-2250f0044189,3 pairs,222 Loisaida Ave
+3e26ea14-7df8-4414-bce9-5625bd159a1b,5 pairs,6 Warren St
+ca581187-8d80-442c-bfcc-5225e2d78841,3 pairs,54 Pleasant Ave
+bf93dda0-1d01-4a6d-b4aa-aaaf903ac5b9,5 pairs,376 Mac Dougal Alley
+f0cb4dae-9602-4776-a4f6-1cff293d8bd5,3 pairs,240 Joe Dimaggio Hwy
+3acc61c3-e1fb-49b5-998e-f8cd6c50d6ff,3 pairs,136 South St
+3e839be2-fd3b-4ec7-a77c-48523352b73a,5 pairs,441 Plaza Lafayette
+d2541c5e-8f8b-409c-a7be-a140d3bcd3e6,5 pairs,56 Margaret Corbin Dr
+460fc3ad-9da4-4600-adf5-b8978b23257a,3 pairs,381 Bridge St
+407fc955-fb4b-46c7-9800-9bf6311547a3,3 pairs,63 St Andrews Plaza
+14f09f11-b086-483f-9104-ef01f0cc278c,5 pairs,72 West St
+e7712e7f-166e-49c4-b847-da57be710dda,3 pairs,115 Bialystoker St
+43d0cebf-da80-4433-8c1b-dcb4d381aec9,5 pairs,345 Henderson Pl
+2fb99f97-ce79-451b-83e9-e9517b556b16,3 pairs,423 Dover St
+2a1cc1bd-894e-43a1-b210-e63d122078f3,5 pairs,493 Hamilton Pl
+01371081-5176-49b3-988b-ebc984d8f912,3 pairs,350 Abraham Pl
+a26793cc-30b0-4093-ab4d-8e905d68a000,5 pairs,254 Canal St
+93cb8d9d-c09e-4858-b5ea-66f548ebd2f3,3 pairs,459 Maiden Ln
+98f0a275-7e71-437e-b987-a99fbc81598b,3 pairs,132 Minetta Ln
+87485aaf-60ec-4f67-a10a-645b75da37a1,5 pairs,75 Pine St
+1fef571b-e0c3-4154-b79d-2afc4636b6b9,5 pairs,108 Marble Hill Ave
+c06eea38-3c5a-4c40-ab9c-0f3476dbcfda,3 pairs,355 Dyckman St
+e75c21c3-4b60-46d4-84fb-5ee821225692,3 pairs,293 Warren St
+e2835cf7-d22e-4ca4-ae64-9a124dde24d7,5 pairs,268 Barrow St
+8021ddb1-171e-4844-adea-cd2e51a90c6b,3 pairs,325 Irving Pl
+e1068ad4-2ffa-423d-ab22-e8f4d02c1643,5 pairs,194 Jumel Terrace
+0a18b2c7-2d22-4b10-bb17-b2cbed3b6b23,3 pairs,50 Fort George Hill
+7721a9f9-ee09-4404-9c79-d7d40d02b5f5,3 pairs,364 Leonard St
+c06e9637-c3be-4cc5-b133-fac744b0ce08,3 pairs,63 Madison Square N
+5cb79601-d98b-4608-961f-6cf9a34ce00c,3 pairs,197 Pearl St
+c6f47ff8-8852-48d9-8e48-227c1b71d03f,5 pairs,338 Coenties Alley
+29c9c623-ffc8-43c6-a7ad-3b5b3ad842d4,3 pairs,235 Commerce St
+d036cdec-a87f-4854-bd57-969b5851fdf5,5 pairs,425 Gramercy Park W
+051ae241-00fa-432a-bdee-ae0c759172a7,3 pairs,487 Columbus Ave
+fc0a2a5c-9009-41e9-8dfc-ee670b6691f3,3 pairs,34 Gramercy Park E
+424e459e-2523-425f-91a7-31ce244183b8,5 pairs,383 Sniffen Ct
+bbbad369-2f4c-4b0b-8be1-f9cd4cc5a69d,3 pairs,483 Pinehurst Ave
+64db25e1-b5c3-4dd2-9d23-6f0a88e5ecf6,3 pairs,257 Barrow St
+cf1bc520-f1cc-412e-b129-42f9751344a5,5 pairs,351 Marble Hill Ave
+ba50a732-157f-4405-83da-34ca85103c32,3 pairs,152 Isham St
+b0b7923a-638e-4e6a-90ac-5540c5e8e29f,5 pairs,136 Milligan Pl
+44f10544-eee3-4bee-a8ab-9ecc4c6dacba,3 pairs,159 Brooklyn Bridge
+964c1ba9-ed71-4029-9dc8-75571a7ad7f0,5 pairs,222 Cornelia St
+9ecdef33-7e72-43a2-b7c8-5f6ecbeeb150,3 pairs,336 Benson St
+4660d165-ff3c-490b-8653-f3b25bbc94a9,3 pairs,114 Freeman Alley
+0dac18c0-6d81-4c87-a556-67ef2203682f,5 pairs,4 Riverside Blvd
+95faca01-0507-4528-97cd-48b2d6f7991c,3 pairs,355 Clarkson St
+00c7f8eb-8290-4e43-81aa-7e2b11bc497a,3 pairs,480 Lloyd E Dickens Pl
+349fcd76-a752-4012-8936-f1a6fde8d1fa,5 pairs,147 St Nicholas Ave
+345ce6a1-265c-4d63-9192-6d1d59cab0ea,3 pairs,131 Duane St
+a21026ed-6ece-4307-b75c-67ae32793d91,3 pairs,11 Morris St
+d54d6483-3562-4d77-9aca-b9258794d508,5 pairs,135 Coenties Slip
+ab8f639d-cf8a-4ea0-9997-afb28493ea92,3 pairs,284 Park Terrace W
+bcf143fa-3a67-452b-b1ac-f6351bb759f8,3 pairs,272 Willett St
+26e818d0-ccb7-4fb1-85f0-5edcde9615e4,5 pairs,44 Bayard St
+66bf9dd6-601b-453a-9ab0-968367e473a9,3 pairs,459 Lafayette Ct
+74b1262b-4b00-43d0-a460-7781a93fea8b,5 pairs,90 Desbrosses St
+1aa3ecc4-8dcf-4569-a654-1055345ab568,5 pairs,220 St Nicholas Ave
+92432361-2b11-40ca-bfde-2b7a7dba71a0,3 pairs,300 Henry Hudson Pkwy
+534eae1a-9889-4b21-9258-5e93c899983f,5 pairs,178 Hillside Ave
+a225f2ab-b4de-4cca-845e-1a44cbce29eb,3 pairs,149 Gustave L. Levy Pl
+af2280a9-e25c-424a-b307-eba3a091c18d,5 pairs,403 Hudson St
+84ded172-2c88-48a5-a5b2-595d793cb75d,5 pairs,99 Mitchell Pl
+73f0f19c-b570-4301-b46a-f79d1f2d8323,5 pairs,161 Marginal St
+b7cf45ec-bc26-41b3-83f1-3595bebef5ac,5 pairs,127 Cartigan Rd
+9812334b-2519-41b3-8efe-0406a7ecb0a3,5 pairs,242 Post Ave
+eca9d379-1a0f-4196-83fc-e834cc357b94,5 pairs,175 Dominick St
+52989224-36a9-4a49-9aeb-fc8cdcbaa02b,5 pairs,256 Morningside Dr
+21ecfb36-8383-45b4-8c1d-07eb281f9225,5 pairs,382 Indian Rd
+9aa68dc1-fadf-4512-91c0-817381d3630e,5 pairs,41 South St
+adf201ea-dae1-4091-9fff-f02a399ebb12,5 pairs,361 Abraham Kazan St
+3d5c4e15-e9f7-4b38-9cf0-baa4d6f9b1c3,5 pairs,122 Amsterdam Ave
+9867f35e-eb56-4ef2-a8bb-71772c66eaed,5 pairs,307 Orchard St
+9c5e94f1-2ce8-4918-a21c-6592883be9eb,5 pairs,438 Washington Mews
+4636f6eb-affb-4390-8b4e-10452e5b80a9,3 pairs,493 Barrow St
+4a91d0b1-17fc-4ba7-9667-a1d49100158f,5 pairs,33 Gay St
+6c6fd5b5-2781-44f1-a223-40c0592bb7b2,5 pairs,192 Holland Tunnel
+2629e415-9c2a-4c07-b402-a85b50528a3a,5 pairs,481 Interstate 678
+0aa41576-f5dc-438b-9cf3-a0d6f19b6849,5 pairs,19 S Pinehurst Ave
+2062e1b6-4dfe-4b9d-a1fd-a5cbcfd9ffa7,5 pairs,481 Duane St
+9500774e-1c64-4530-9710-1ddba1f015b8,5 pairs,481 Delancey St S
+43cdd2c7-7cf2-45e0-a90a-e0d4ca5f841e,3 pairs,156 Doyers St
+ede65873-62cb-4641-bee7-42b1dfc51930,5 pairs,49 Lexington Ave
+50741ea8-f71b-4075-be5e-9bfba9fe0a5c,3 pairs,220 Madison Ave
+34cad597-6f1e-4214-91b4-58bfa54794aa,5 pairs,395 
+6540ff04-f33c-423a-b2e2-c7b59f0568bd,3 pairs,60 West St
+877c78ec-5f6a-4979-ad42-b08404f7048b,3 pairs,289 Horatio St
+81b7b041-d0ae-4144-ac64-b2b000dfb83d,5 pairs,450 Mc Kenna Square
+c7ae5436-06b8-491e-a89f-17f5c63685df,3 pairs,197 Queens Midtown Tunnel
+18200545-836c-4e37-8647-19ff88a76d8f,5 pairs,486 St Clair Pl
+e3d6e350-34a0-471e-bd70-3f377ed0faad,3 pairs,326 Bear Rd
+c6522de3-c50e-42e8-af4c-685cfaae7b00,3 pairs,447 Hayes Pl
+f3a01a9a-196a-4eb4-a5a9-2cc7605dba4d,5 pairs,44 Albany St
+63a19367-0ba1-4ace-bcb5-356049b44a99,5 pairs,327 Chincoteague Rd
+bf19bc51-a836-4190-929c-62498af79b59,5 pairs,116 Lenox Terrace Pl
+a822d32c-2153-47a4-bae4-4262e694f807,5 pairs,256 Dyer Ave
+a0add57b-f0f4-480a-8bcf-fd5040a79803,3 pairs,398 Broome St
+ebf51f39-4c4f-47e4-a516-25a89cba7207,5 pairs,76 Barrow St
+84f7e10d-65cc-434b-8a49-f42bc2f7de74,3 pairs,114 Central Park West
+69e5b3dd-592f-4a7f-8241-d7ee54c89ffc,3 pairs,0 South St
+37193abb-a78a-45f5-83a0-acfc98c1b884,3 pairs,204 St Marks Pl
+d963bc8e-30bd-445c-83b2-ea3771f74184,3 pairs,268 Kimball Rd - Governors Island National Monument
+836eb8ef-e489-4444-9700-3a4046ff4cba,5 pairs,96 W Broadway
+0e049740-77c7-4de0-a9e2-861c8f2c6ef9,3 pairs,42 Gresham Rd
+34fa148c-765d-48d8-b22c-bea20a66fc3b,3 pairs,126 Catherine St
+707def3e-531e-403c-935c-9731e874e679,5 pairs,53 Kenmare St
+2a480638-d714-4305-ad05-d68afed575a9,3 pairs,380 Charlton St
+36b54f0d-3945-4421-99fb-a354b29365fe,5 pairs,257 Penn Plaza
+bbe01866-e469-4109-8249-6ec52475faa5,3 pairs,1 Peter Cooper Rd
+1cf36a1a-8e33-42cf-8653-39a76327153d,3 pairs,277 S William St
+7468fbf1-d395-4286-a20e-d8a405f6c3ed,3 pairs,0 St Nicholas Terrace
+f8ebeaee-4fc2-4793-8abf-862bb9af5530,3 pairs,441 Washington Mews
+e2ef0dac-4a45-40df-bce1-39a8e7d05b5c,5 pairs,6 Sheridan Square
+4d0b9996-dfba-4eeb-a801-dcf7c636dcbb,3 pairs,465 Wall St
+1e207fee-ed79-4325-be43-4bc140401074,3 pairs,270 Columbus Ave
+1a9035c5-8ff7-4d5e-9c94-f2a7ba59fc8c,5 pairs,240 De Peyster St
+bfea506d-f65f-4a28-a3e2-fed9ed028577,5 pairs,375 Roosevelt Island Bridge
+f10e7fcd-edc3-4ac5-a2b0-a4cee623966e,5 pairs,298 Joe Dimaggio Hwy
+abc25fd8-8b01-4ad0-841e-d7017918472e,5 pairs,98 Staff St
+170f5a76-04f2-438d-a4b3-14270df58c38,3 pairs,110 Gracie Terrace
+e519b6ba-c474-43ef-b89c-3686da71760b,5 pairs,433 Pell St
+f4b59b95-3dcf-402a-8db5-4d735df2c674,5 pairs,444 Christopher St
+1188c3f2-f740-4f0c-8684-994553ef14c7,3 pairs,492 Macombs Dam Bridge
+4656b737-b34c-446d-b836-3d27ea25a44f,3 pairs,84 Lafayette Ct
+aa7f3a68-16a1-4138-8a2b-d1151c88ae94,3 pairs,33 River Rd
+e20d5ac4-521f-4197-b0ef-0288b1df8ef5,3 pairs,283 Macombs Dam Bridge
+16791560-74e4-458d-aaec-64b0c7dd59ae,5 pairs,61 W Thames St
+0cb9ec91-32a9-4b5b-a828-fa15f35a844c,5 pairs,433 River Rd
+10f1083c-4052-4c7e-b5bb-4d1222cafd3d,3 pairs,86 Pomander Walk
+ee178169-ed62-46a0-ad25-88d5d3480a46,5 pairs,258 Centre St
+f8578b1a-e2ec-4b22-80bc-b4a8933aec15,3 pairs,77 Park Terrace W
+d97ca342-bfb5-48d4-9d9b-65e0c2301025,3 pairs,403 Samuel Dickstein Plaza
+e4c1c8ac-a808-4e33-9a22-82e4e39b1532,3 pairs,247 Hudson St
+a1687117-3fa4-47c1-91f3-16b79c89762e,5 pairs,350 Maiden Ln
+86473fc5-64ad-4793-bd6b-49122029ba08,5 pairs,47 Murray St
+532d8a2e-02c0-4ae9-b03e-f41fdc2d5f6a,3 pairs,225 Nassau St
+69951beb-4dc8-4f1e-a4df-5fd76ef2f40d,3 pairs,233 Perry St
+124d138c-f655-4166-a3ee-5b49e2e794cf,3 pairs,492 Cannon St
+b36655c0-d976-4b7a-b496-c71762b14ea3,3 pairs,309 Grove St
+2b237cb5-9fd4-4651-a9b0-03fb9213762c,3 pairs,215 S Street Viaduct
+249d7db3-add4-4e1e-b7bf-d1b29972f5b1,5 pairs,276 Dyckman St
+f8b07807-4dd3-450f-8954-b07cca5dd3b7,3 pairs,372 Sullivan St
+aa44ab9a-06de-4efb-bd2d-a64c678179d9,5 pairs,65 Park Terrace E
+46aa2474-0c33-4fc9-8b95-0c27f7d6aab1,5 pairs,481 Cumming St
+a31ecf79-cd77-4481-849e-4a6438c064f6,5 pairs,326 Washington Bridge
+cc32c04f-2967-4698-b424-13bf6312c6da,5 pairs,87 Half Moon Rd
+847cc806-23ef-4b64-aa58-162a4a95f66b,3 pairs,43 New York Plaza
+551beb4c-099a-469a-b74f-75adda405297,3 pairs,141 Ann St
+f60b8c2a-08b7-47f2-b3bf-28b558c005e6,3 pairs,273 Sheridan Square
+aed87896-7b7b-41d0-81df-36ada2c9b9c9,5 pairs,238 Benson St
+97b61b70-c0b1-41df-b2b7-56082b6eb439,3 pairs,403 Marginal St
+38c3a240-eb07-43e8-86a1-8cdab22d34a4,5 pairs,262 Madison Square N
+6b78cb2a-d3df-41cd-8f63-7b9fd2085c30,5 pairs,285 Abraham Kazan St
+bebafd88-96eb-45ae-af15-b5dfa65c09f5,3 pairs,124 John St
+0a583180-2e6d-454c-a7e4-a0d6909451ba,3 pairs,247 Broadway Terrace
+eb456d45-aa8c-46ed-9db5-7aebc42c0ae0,3 pairs,491 Bayard St
+243c0495-3bb5-40af-b0e3-87f20a272628,3 pairs,134 Pinehurst Ave
+bc12b57d-4f0d-4187-a8d6-154f1d3cb864,5 pairs,263 State St
+f547d775-53fa-475c-84e4-d8860962d0ce,5 pairs,409 Grove St
+aa51e546-5694-4639-9ff3-b7b8222e269e,3 pairs,346 Mott St
+2a2dd222-34b3-4156-815b-5ea07f3b3874,5 pairs,419 Jumel Pl
+875cc7c9-de5b-4176-b4b9-31db2feb3c27,5 pairs,392 Washington St
+af57f3d0-1b9a-441f-a48e-b7486b8085d0,3 pairs,393 Frawley Cir
+3b1f7d6f-fc2e-45dd-bac8-1ee53d2a5352,3 pairs,33 Jones St
+e7a9732d-616c-40f2-a8a6-37feaafc1028,5 pairs,112 Pleasant Ave
+c90356be-23f8-4c35-b5a4-e77fababd7f4,5 pairs,148 Frawley Cir
+e2699c21-5632-401a-8cf9-62e47a1c0857,3 pairs,94 Catherine Ln
+0a1c017d-2a3a-422f-83dc-200636f0482e,3 pairs,61 Owasco Rd
+df6ab15d-02b2-43d4-8627-d40c4f9d9d27,3 pairs,332 Cathedral Pkwy
+f361c567-4994-47a9-892b-b429d0ddb4d7,5 pairs,161 Collister St
+651b976f-1e44-4c12-9c1f-f5562e5833b2,3 pairs,333 Dover St
+8b4840de-751c-4149-bb29-03dcb5c41a74,3 pairs,388 Meyer Square
+61c7bc17-d8a5-4c98-8cc9-58b4203f2b64,5 pairs,74 Suffolk Street Community Garden
+66406668-0156-4a93-af00-2a72256fd868,3 pairs,429 Icarus Rd
+a4a90445-cb56-4397-a737-9993278f8d82,3 pairs,46 Sylvan Pl
+47cdfd21-06f9-4485-9044-090d315bcdd6,3 pairs,454 Gramercy Park W
+4218182e-bb58-4cdf-8a69-c5efca3f5b23,3 pairs,88 Loisaida Ave
+8fe74fea-4e52-4dbf-9141-62026fb86136,5 pairs,256 Avenue C
+2a5e5c61-57c5-4dc2-9eef-24224907b88e,5 pairs,266 Pine St
+8fe85f04-4312-446a-8c1d-aa31b62b662d,5 pairs,345 Riverside Dr
+f9044a1a-3c5e-48cc-9535-6f29c97c2293,3 pairs,421 St Johns Ln
+a4703d99-fbcb-424c-9c84-3b0ec654f189,3 pairs,464 Harlem River Dr
+2ebc2d25-a0bb-48f7-967f-44b6bd62d756,5 pairs,115 Sniffen Ct
+f543714a-77d5-4d3f-9b92-7c548ae5390d,3 pairs,418 Madison Square N
+0b0e97f7-b704-4ed7-ad85-3a0045b0c862,3 pairs,226 Mosco St
+cfdd3e0f-f602-4562-9521-cbf71587a59e,3 pairs,88 Chrystie St
+a1bfe297-a677-4c21-b5ae-d9082e08da9a,5 pairs,316 Pike St
+2204e391-e74b-4452-9220-17bc75df25e5,3 pairs,389 Ctrl Park Powell Blvd Appr
+6cfb8b94-178e-47a2-bd8b-9858a45e0dab,3 pairs,459 Hayes Pl
+00ccbbf4-ef6c-4ffc-829b-8b3c66b34c2a,3 pairs,98 Seaman Ave
+89e2f890-304c-48d3-a706-d3a38118533c,5 pairs,66 Gouvernour St
+97be34af-6a74-4128-80c1-ddfc7b1581c4,5 pairs,409 Barry Rd
+ee187b7d-1d51-4ebd-89a8-6e50e85e5faa,3 pairs,354 Andes Rd
+a5527c12-4149-4f43-ab37-a09d01fd9bdb,5 pairs,482 South St
+d7b87b7a-8f00-4c14-a3d6-ebc6e5a9c1d2,3 pairs,326 Andes Rd
+8252a405-9cec-4717-8810-278ceb633ca5,5 pairs,399 Columbia St
+56d77c7d-bbf4-4a85-8e0d-bc7a75b6cc0f,3 pairs,438 Wards Is Rd
+ef36b6e2-0b1a-4f7f-9e1a-d6bc499cc2fb,5 pairs,350 Cherokee Pl
+c9426eae-71c0-4c24-aaf2-7c8593682c3c,5 pairs,263 Commerce St
+d7c08c9e-0e46-4032-88ca-070d089ec70d,3 pairs,355 Crosby St
+79658966-8c5c-4e27-a70f-537cf0c61b07,5 pairs,395 Park Ave
+a853d3dc-7388-4889-b589-50c09269ae19,3 pairs,300 W Thames St
+4419bd94-e1b7-46b9-9a39-a2027e1be17a,5 pairs,25 Gramercy Park W
+5420b209-47ff-494e-bb17-d715d34ef80f,3 pairs,251 Abraham Pl
+64106ce2-6f27-4383-9680-2eb8ef590c71,3 pairs,320 Henry St
+dddd00ea-b192-4907-85d8-c1d98f300e0f,5 pairs,446 Grove Ct
+27d77063-9ab1-4408-807e-274f32a30ae1,5 pairs,479 Mitchell Pl
+459f36c7-5f7e-4915-8603-fde4fd746269,5 pairs,389 Barclay St
+f085c962-1727-4243-ad16-2ab5abff9ca1,3 pairs,378 Riverside Dr W
+28deff0f-56d7-4fab-9037-5a0675bde10e,5 pairs,139 Ctrl Park Powell Blvd Appr
+d48128f6-5a1f-4277-9b65-aedcd4ccbbf6,5 pairs,159 Bank St
+2a8551e5-f70a-437f-8961-3a3756603875,5 pairs,354 Minetta St
+14ade29e-59f4-4bda-b0f7-46e2a0372332,5 pairs,74 Marble Hill Ln
+626675a1-b14d-4426-a381-5817003a566c,3 pairs,112 Hancock Pl
+f5798576-6174-402d-bb69-63941056fc82,5 pairs,202 Central Park N
+bd6c7c7c-bd97-4065-b911-f6ddd4b7eb35,3 pairs,266 North End Ave
+b94ede95-2742-4aeb-9b52-883af7c12c83,3 pairs,134 Cardinal Hayes Pl
+0610741e-449f-403a-9ce0-81ccfbb09b51,5 pairs,22 Bloomfield St
+6f2543a5-5c0d-4035-b56a-7111ba579e66,3 pairs,218 Lewis St
+e295d71f-8cc7-4a66-a52f-3dbc5fe9438d,3 pairs,99 Desbrosses St
+060476a8-c93d-485f-add3-665ebfd5394f,5 pairs,153 New York 9a
+a1d0d62c-607d-4c7d-8175-8ce0994f07ea,3 pairs,412 Plaza Lafayette
+15d0e408-4ab0-4e53-b0f0-2dfce9511e23,3 pairs,428 Maiden Ln
+0a3d30dd-34fc-48b6-ba72-d130090f4dbd,5 pairs,432 West St
+f36abb61-8f06-456f-ad35-0a55e14cb47f,3 pairs,453 Sickles St
+82da2da0-eef5-42d3-876c-283accf12fb6,3 pairs,234 Market St
+3250074c-e681-40e3-9125-443eba28c026,5 pairs,210 King Ave
+d75d0954-16ef-4f47-9d66-8974546873cd,5 pairs,430 Cherokee Pl
+05865913-eb3f-43bd-834d-21c55a547206,3 pairs,9 Stone St
+0216da70-2a4e-478f-a292-b3f18a161a36,3 pairs,22 Crosby St
+f82be00a-3ad9-4204-88f0-993ec3ddb64c,5 pairs,221 Wheeler Ave
+d6664a1b-2c31-4736-be8d-b15e6895c487,3 pairs,182 Cortlandt Alley
+e5b08f6e-cd46-4016-b139-0e7f9ff9b801,5 pairs,130 Sheridan Square
+ba516e45-4087-4332-a191-56225356dba2,3 pairs,34 Washington Square W
+a095883a-078d-4c0b-8111-acf8daf07f11,5 pairs,286 Avenue C
+f1403cc6-482e-46e3-9514-06dae4eaebff,3 pairs,119 Henshaw St
+b118233e-60a0-47c7-94f8-fe5608aa1e7c,3 pairs,387 Manhattan Ave
+698b0776-2b71-4192-af9d-e11c69f7a86d,5 pairs,267 Oliver St
+fe0e4b6c-c19f-413c-b2bf-1d31ee753f22,3 pairs,270 Perry St
+37a90dda-4356-4912-94b5-9a5d326614f4,3 pairs,156 Barclay St
+45d9829e-83c6-49de-a3f5-ef962f49df56,5 pairs,302 Pinehurst Ave
+004883d4-4047-404c-8e5f-62a079a38f14,3 pairs,321 Cornelia St
+eabb0ada-2264-47f9-9ec8-112cf9528088,3 pairs,398 Clinton St
+d66bba93-e32c-4539-b55c-52fec992bb12,3 pairs,29 Madison Ave
+b3c20b7c-b852-46bf-bd64-aa6cdbfd9eca,5 pairs,466 Old Slip
+113c7c0c-6521-4d34-900b-917da98dd77f,3 pairs,111 Pinehurst Ave
+508fccd5-eae9-482c-b1b0-5a4707621f67,5 pairs,296 Sylvan Ct
+84b4e7c5-edb8-4e32-90cc-f620017e40a8,3 pairs,409 New York Plaza
+3961fafa-20fb-456f-a0c2-188b5e923155,3 pairs,227 Walker St
+bf29cd8a-a1ec-4d3c-aee6-d0341591b324,5 pairs,100 Manhattan Ave
+51a24345-b3fc-431c-9072-51bfa77c2b13,5 pairs,313 Sherman Ave
+9d163c36-3c70-4d54-ac7b-9b6ca0eb31cf,3 pairs,50 Jefferson Ave
+8428125d-f18f-444f-8e48-9584737bb43f,3 pairs,240 Riverview Terrace
+2749076c-a25a-46a2-a478-4a91f4f12c4b,5 pairs,208 Barrow St
+dcb88ceb-dacb-49a1-9a84-adfa8a9913b7,5 pairs,289 Avenue B
+94c85e11-11a0-4595-8b06-8d1b5969437f,5 pairs,465 Harrison St
+1da9d838-b305-4a37-a0ea-7cdfb2ad39a9,3 pairs,168 Fort George Hill
+faa7b179-77d7-4bef-97e3-2c38d3c77547,3 pairs,337 North End Ave
+db3597b3-9ea7-4df5-ab0c-500e01768e7c,5 pairs,328 Moore St
+ff59e41c-232d-4fd5-bec0-e8a3d35b0317,3 pairs,414 Chittenden Ave
+a931f74d-0a48-4096-af9e-8d799c65fda9,5 pairs,109 Gouverneur Slip E
+0f6b4c74-7683-44bd-9208-915e52cd7a17,5 pairs,383 Marble Hill Ln
+b0f39610-2068-4e10-9421-8c233f27760e,3 pairs,222 Sheridan Square
+e7e97158-40e7-4c90-af3e-7936f16ba9e6,5 pairs,227 West St
+9a151436-0e4d-40b6-91f1-304084fa4ca8,5 pairs,178 Fred Douglass Cir
+c4d14e78-864b-4eb8-8454-d4b46ad48dcd,5 pairs,13 Abingdon Square
+ab385780-cb19-456f-8580-bb01ebeb4251,3 pairs,424 Samuel Dickstein Plaza
+1a171422-d5ea-421b-b858-0925d9210e3b,3 pairs,215 W Broadway
+3195cc23-0262-46d8-9557-3dd4fba79e87,3 pairs,228 West St
+665b3657-6603-4a33-aa87-d7b1642c08fd,5 pairs,65 Ferry Line Rd
+3bab9dfe-336f-48e0-a7e6-82b3593932e6,5 pairs,459 Harrison St
+128d37b7-7854-4430-938f-b894fa4e8734,5 pairs,290 Orchard St
+5d826e1d-0a6f-4132-9a33-e0f934419c35,5 pairs,120 Staple St
+7729af45-030c-439e-9eb8-2311ce0e53ab,5 pairs,476 Gansevoort St
+ae9d5c16-65af-47bc-a5c6-3ff97f95c625,5 pairs,166 Convent Ave
+46b6fb51-4d46-4208-bc51-084f1c6d6c17,5 pairs,99 Leonard St
+3d4f5211-afc0-4338-a623-fdba56fbcc82,3 pairs,11 Chambers St
+bb291e46-cdff-4b29-b2cf-9c662a0b86bd,5 pairs,85 St Nicholas Pl
+7b85f45a-d049-4408-b26a-d7b86c5df03b,5 pairs,223 King St
+fa66ee8d-7327-42cb-9bea-d0ad37bf566d,5 pairs,245 Harrison St
+2fe047c8-940c-4c81-b1f0-47c6fc3567e4,3 pairs,129 Jumel Terrace
+987f9599-7b55-469d-8ac3-c2660557e3d3,5 pairs,492 Hwy 9
+c848311e-ca88-4e76-a7ab-e213ab0cf494,3 pairs,444 Cortlandt St
+4addbed9-cf8f-4f73-8047-f5414d6cc24a,5 pairs,80 Chisum Pl
+cfdb814c-c825-40b1-a93c-fc3419fb2f69,5 pairs,39 Warren St
+79f3da2a-facd-44a9-a4c1-d81256ea6840,3 pairs,48 Academy St
+c35a77d5-c22e-4a94-bf4f-0e0f34c20cf7,3 pairs,203 Peter Cooper Rd
+ebd389b9-251a-43d7-a41a-94c416fefaa7,5 pairs,132 Astor Pl
+39c50db2-0a6d-4e47-9c5b-767332d63f2f,3 pairs,283 Cherry St
+bfda234c-ef99-4ba2-b59e-a3afd7512d06,5 pairs,376 Kenmare St
+e03f5cb3-e6ba-490b-9a34-834a8eb53454,5 pairs,499 Park Terrace W
+02f23d7b-632b-4257-a557-df30dffc3de8,5 pairs,178 Mulberry St
+e5a893e1-af47-42f8-b62d-36a66aa940c3,5 pairs,484 Jefferson St
+afe48af9-fb2d-44a7-89ed-5eaf495c178e,5 pairs,141 Malcolm X Blvd
+8f454845-2bcc-4fbe-96d5-5dfe712847a6,5 pairs,183 Beaver St
+991b4e57-a368-48ba-b300-954d38ca454f,3 pairs,115 Grand St
+24a3bfec-121d-44cb-833d-b8899c066144,5 pairs,32 Andes Rd
+be5d8d0b-9761-4e38-996a-b4d68cf362e9,5 pairs,279 Legion Memorial Square
+0f7d518b-56b0-4b87-9501-cd5741417e42,5 pairs,487 Hamilton Terrace
+1cc83bc4-0792-4916-844c-51bab6c44da2,3 pairs,414 Amsterdam Ave
+2f0a5ec4-9979-486f-9129-1510ad873641,5 pairs,145 Mc Nally Plaza
+c6dcb286-ac62-44b8-bf9a-3c522a75a5ad,3 pairs,56 Cortlandt Alley
+7b3a4255-2bcb-4c02-8d2a-f7655c1f60d9,5 pairs,233 White St
+e0db7e4a-6b68-43b8-998d-abafeede69dd,5 pairs,484 Front St
+d66dcf7e-112d-4a86-bb26-61b2add9cb11,5 pairs,336 Madison Ave Bridge
+e9879bb2-6a0b-4f9f-b052-df37ac9041ab,5 pairs,416 Queens Midtown Tunnel
+fe8b2e6c-7038-46f7-859c-2eded5f057c6,3 pairs,435 Hester St
+8ddb4013-b1f5-4504-899c-87cf379f2789,5 pairs,474 Manhattan
+0c134039-75d0-40da-a42b-c0d4f2ab9fbb,3 pairs,392 Cherry St
+fb4ca2c2-1d48-44ed-a7dd-3802c4b8bbfa,5 pairs,24 Sutton Square
+cf89378a-a0b6-42d4-b7f3-f7588a0aca4b,3 pairs,482 Pike Slip
+0ee7415a-93cb-47ea-9d5d-096d5c618b16,3 pairs,306 Columbus Cir
+fb1d549b-03a9-4fd4-80f2-bec0e781ce1c,3 pairs,276 Madison Square N
+c30f0fe7-1dcb-4ea3-8fbf-35a5f9b5c352,3 pairs,477 Meyer Square
+245be1b8-6693-4501-9917-55b6b12f57e2,5 pairs,87 Morton St
+bf557323-097c-4156-8781-5fe8dde446a1,5 pairs,169 Pinehurst Ave
+94453cf8-28e3-46c4-ae86-4b2a92632100,3 pairs,395 Washington Square N
+5400d8fc-7783-4470-a93c-9e11041ccc18,3 pairs,375 Little W St
+32a0527c-991b-4022-92ef-f6ed479ffa1f,5 pairs,427 Sutton Pl S
+de3dc1e4-fc46-4633-88fb-e7616e1fdbf4,3 pairs,122 Alan St
+0a82618f-7e18-4ff9-9786-88fe038c6b5b,3 pairs,10 Madison St
+40606e04-4b90-49f8-80d5-34bb41b92ec9,5 pairs,449 Adam Clayton Powell Jr Blvd
+c674aeb3-f461-4944-8f6e-2225adb02f88,5 pairs,115 Colonel Robert Magaw Pl
+bdc6acf8-f87c-40cd-a0db-d687eb99afc1,3 pairs,131 Patchin Pl
+231ffe7c-976a-4306-bfd4-6db67c5c6721,3 pairs,428 Jersey St
+f9a7b196-3fa9-45a6-bdf9-612676e8582c,3 pairs,389 Greenwich St
+2a67bbdd-ac2c-40c2-9fac-c7ea49cbeb30,5 pairs,385 Loisaida Ave
+afc82694-54cc-494e-bbc8-1b0e82a7a89d,5 pairs,64 Norfolk St
+03e7d0af-9a7e-4a7c-8c52-dadb94da1716,5 pairs,377 Kimball Rd - Governors Island National Monument
+6423f8cc-e0f7-4301-a14e-2ec4256d6db3,5 pairs,112 Nagle Ave
+54aeeb6c-92ab-4988-a65a-3100c9290db9,5 pairs,173 Abraham Kazan St
+f6a5e326-202d-41e8-935a-521fe08979ea,5 pairs,437 Bennett Ave
+7cc74c0f-aea7-45a2-978b-2c35a8e6ff95,3 pairs,494 Grove Ct
+a14f75b8-0782-4f04-a918-fffcf860fd7a,3 pairs,152 Nassau St
+f9130306-dab7-4fff-bebf-31455abfb3b4,3 pairs,436 Abraham Pl
+c57b2de9-48e7-40e4-b3ec-e3fff1bb539d,5 pairs,471 Dominick St
+538c0481-7c73-4429-b845-2860d7dbea3c,3 pairs,289 Maiden Ln
+b0880640-1c2a-4e99-bcd3-4e0d19c03fe9,3 pairs,141 Hanover Square
+568ebc44-7453-460d-8216-1f44c9fc1fb3,5 pairs,378 Orchard St
+5c849bc1-19de-436d-aeb5-8e4b7f630907,3 pairs,410 Catherine St
+423d494e-2a58-47f8-a56a-812a0a6b970c,5 pairs,305 Dominick St
+255ae15d-fd6b-494a-9a47-2e441df6c5a0,5 pairs,330 Nagle Ave
+ecb6518b-c06c-4b87-8a88-90457b81bb9c,5 pairs,223 Lincoln Center Plaza
+291a568c-5ca1-4736-a9c5-e4b5f4b67203,5 pairs,219 Stone St
+d67d022d-0f65-4f02-ab94-5f90868f191a,3 pairs,166 John Jay Byrne Bridge
+58c90d97-8949-415b-adcf-d7aee57671ae,3 pairs,206 Rivington St
+a1ccdd88-af3e-4d1d-8d49-2d9ef33d1cab,5 pairs,63 Cooper Square
+0f5211a5-d09c-4e23-a088-633b65c86e3f,3 pairs,433 Mott St
+32829b61-064e-40c7-90e1-87e7b19deecc,3 pairs,334 West End Ave
+4c178750-1711-464e-a95e-896b5e3d52ea,3 pairs,402 Beaver St
+4c98f6e3-a324-4060-9ad8-d829a07e9db6,3 pairs,174 North End Ave
+951d5853-dd6e-4d34-afc9-117175d70421,5 pairs,450 Marketfield St
+e748037c-34a3-4670-b0cd-3bd5d61160f3,3 pairs,70 Federal Plaza
+241636b2-eb4a-44d0-bdba-f5c5edee1a99,5 pairs,316 Henry Browne Block
+34a2e79b-81a5-407a-a0a6-331ecb6f88d6,3 pairs,215 Wall St
+05c91dd6-13aa-44e5-87ed-01a72656a8bd,3 pairs,102 Doyers St
+0a7c6cd5-7e49-45eb-b8bd-8e1db2cf74bb,3 pairs,288 St Johns Ln
+18aec2e8-cf17-4c66-a711-962135877b4c,5 pairs,405 Audubon Ave
+18ba714a-0ab6-41a5-b768-074bbbecabbd,3 pairs,26 Jones St
+fe5965b3-7f19-4a71-931a-b470c54a7004,5 pairs,450 Avenue C
+5f4f70a9-1739-4536-8759-451006cbff6d,3 pairs,495 Minetta St
+d0ee07f3-ccf9-4cf2-a91f-de9ab9ab817b,3 pairs,244 Christopher St
+568ace46-c230-4b1d-a2e2-61f9ab8f4399,5 pairs,223 Marketfield St
+ee6fe239-c228-454e-bb25-5e8fd0325d06,3 pairs,307 Fort George Ave
+80f8bcc4-407a-478d-a326-4492854f4883,3 pairs,290 Grand St
+b9e4ee0f-3c71-4d7b-b1a7-794a2a3ce938,3 pairs,319 Mulberry St
+69412bb7-c390-4fbb-919d-58b44472aab6,5 pairs,133 Gansevoort St
+1f2a93aa-0066-48e7-924a-db4e2f293e62,5 pairs,193 Rockefeller Plaza
+6a76d3b1-c782-4964-953e-9616de3ecf7d,5 pairs,261 Ctrl Park Powell Blvd Appr
+cf45b8c3-0b48-4a0b-a06e-659ef5c8f531,5 pairs,182 Sickles St
+c3d78ea7-eb03-41c6-be31-81b0c2d94aea,5 pairs,5 Renwick St
+c0eb7540-64c1-4fe7-af1a-037c4c7aa8cb,3 pairs,181 Sullivan St
+7ec0ef86-f263-4936-a07f-b5ac31942545,3 pairs,421 Absecon Rd
+04cb3636-9ad5-4464-9354-e70a43c1afe3,5 pairs,270 Duke Ellington Blvd
+9b7ed315-6708-4640-860a-43c41ccec918,5 pairs,145 St Johns Ln
+f79bb213-1d30-4251-aef2-8d6311679604,5 pairs,188 Bogardus Pl
+7f781073-bed1-4796-a74c-b3e9337a14a9,3 pairs,311 Sutton Pl S
+b01ba01b-6ca7-4d58-99f0-ac6c9f38b967,3 pairs,291 John St
+1b528c80-5c0e-430b-b6b4-0409c0f02b76,5 pairs,124 Avenue B
+02b83872-02ac-4f7f-b6ef-5fb38aaebac8,5 pairs,45 Cherokee Pl
+a69bacae-ea77-428e-b8ba-149e5b4e855d,3 pairs,400 Gracie Square
+d7fab249-a5b3-4878-b314-87cba0c2d9fe,3 pairs,279 Montgomery St
+b4016665-08f8-4c0d-8d5a-56b18c87e975,5 pairs,493 Dutch St
+7eac3a6a-51a2-4d36-b868-cbeea0878b96,5 pairs,229 Wall St
+761665fc-b53f-4a5e-ad76-38dfddbc4702,5 pairs,210 Robert F Wagner Sr Pl
+7eb94e0e-14a4-4a37-ae71-618bec3be74b,5 pairs,419 Holland Tunnel
+63ec9491-a873-432b-9223-0286467e1ac1,5 pairs,123 Barry Rd
+307ebc89-368f-4ffd-be84-8dc96dd65023,3 pairs,336 George Washington Bridge
+5ca27508-f59a-4c3e-aac7-52071d85d1e7,3 pairs,258 Marble Hill Ln
+897b6fe7-22b0-4aaf-b508-ac7eb59b5f35,3 pairs,461 Lafayette Ct
+08b95db7-55fb-4e53-bfd8-b6918e3683cb,5 pairs,121 W Rd
+f19c1d11-0baf-415e-9771-b6e88d1dee27,3 pairs,434 Franklin St
+65fab5e3-2521-431e-a5bf-bd4a7668857a,3 pairs,274 Seaman Ave
+f9d47ad7-77f5-4fec-b28b-7bff7b2346c0,3 pairs,457 Henry Browne Block
+8fdfa7bb-10e8-43d4-942f-6bb1f174c8b8,5 pairs,39 Chatham Square
+de00a201-c9ae-46e0-970a-300b16da259e,5 pairs,446 Central Park Driveway
+6b7420e2-b9f1-45a4-b817-4dcc76737df7,5 pairs,91 Fred Douglass Cir
+6fd17f42-a23d-42e8-b50c-d3745636c155,3 pairs,108 Overlook Terrace
+36ff3a7f-cc36-495d-a615-31ff923e3de2,5 pairs,264 Pitt St
+14278246-db0e-40c9-b9ce-9cc66020067d,5 pairs,182 Shubert Alley
+db68af8f-a8ef-497e-b3a8-6e64ae626f5c,5 pairs,288 W Houston St
+4d2505d3-5170-4bb4-b745-73ff985732dd,3 pairs,156 Washington Bridge
+bda18a57-a1dc-49db-bd7c-21e68ccdefed,3 pairs,395 Commerce St
+840ec2b7-8b10-45ee-b406-1df86675d5a8,5 pairs,340 Watts St
+75ef7cd6-5168-4e92-a0d0-472ab315da69,5 pairs,203 Greene Ave
+cd7bedf0-670c-4f81-b5c8-f5eb8c62298c,3 pairs,256 Rockefeller Plaza
+e60022fd-11de-41eb-92ae-5be924dd10cd,3 pairs,33 Great Jones Alley
+19eb6113-44b5-40d3-966e-1c3ad75973fc,5 pairs,104 Horatio St
+d6983bdb-5bff-4d72-ad74-81868f1b7cbf,3 pairs,345 Gramercy Park N
+4818f692-8de2-4844-8c18-d0cdbffe07f9,3 pairs,24 Peter Cooper Rd
+42af0b95-2e9d-4692-a1d1-dc256d6eb6bc,3 pairs,253 Suffolk Street Community Garden
+363afb28-d5ed-4f67-bf37-cc177cb42b70,3 pairs,389 Cliff St
+38003128-c07b-4fe7-9a22-e663c0b544ef,5 pairs,387 Beaver St
+2f9424db-1355-4f3d-a79c-60c000c989ec,5 pairs,102 Jefferson Ave
+3668e7c0-ce5d-4d5d-a7b1-af93447464b7,3 pairs,289 Jumel Pl
+eb0fd99f-92f7-49c9-898f-0b81ef617a88,5 pairs,215 Central Park Driveway
+af7881df-dc8f-4062-be63-184385e8062c,3 pairs,320 Freedom Pl
+40558a51-882d-4cc6-a03e-13a36f53a20f,3 pairs,379 Gouvernour St
+c11a71be-c1a5-4d03-b1eb-ab47d1a14edc,3 pairs,28 New York Plaza
+e9044d6d-0616-4530-94d9-3ef1bbc72d54,3 pairs,328 Payson Ave
+bab2e3fc-5559-41c3-a6d7-5022950643e0,3 pairs,165 Henry Hudson Pkwy
+1d21af0f-6f06-4e10-bcde-cc2aec003471,3 pairs,207 Bedford St
+a8dc442f-ec68-463e-be9f-dd012a16a9b0,5 pairs,10 Avenue B
+29243943-173a-4f67-84fa-84f1d076b29b,5 pairs,329 Chrystie St
+6a9f5d65-4172-4931-9d19-3c7d47e430a1,5 pairs,441 Chittenden Ave
+fe38d36a-34d1-4618-a68a-fc715414bf9e,3 pairs,95 Abingdon Square
+cf485cc9-2fc6-4caa-a4fa-f2ef410e0d89,3 pairs,156 Abraham Kazan St
+0120a3a4-d81e-4ebe-ae2c-bb13fe603671,5 pairs,398 Szold Pl
+6a4c4457-54ee-4495-ab19-53bc29e5b24b,3 pairs,450 Dominick St
+8a646fe0-0caa-4c06-8179-7fa87aa3b33e,3 pairs,263 Pike St
+72d8bf42-6ed7-4c55-99c8-04cf2bd93f4a,3 pairs,69 Church St
+7e4bf64c-4032-4b1d-9fa3-85eed6aa5261,5 pairs,370 Hancock Pl
+a95192f1-3a42-4cfc-8fe2-406839c58a61,3 pairs,416 Bayard St
+ada3ffb1-cc5b-44c3-8b11-d972d5edc203,3 pairs,468 Beak St
+0cb58119-3cde-43dc-9cf2-b86a2314245d,3 pairs,470 Lewis St
+bf144c5c-870e-453d-a368-7364dd802adf,5 pairs,422 Charlton St
+cab512ac-51a7-4a5b-b4b6-1717b9a4f32a,3 pairs,252 Seaman Ave
+3b437938-b02a-429f-b1e9-0a89dfb6834f,3 pairs,56 Macombs Dam Bridge

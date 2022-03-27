@@ -1,0 +1,478 @@
+user_id,product_id,style,model_name,color,price
+004883d4-4047-404c-8e5f-62a079a38f14,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+00c7f8eb-8290-4e43-81aa-7e2b11bc497a,7,Women's Styles,Lucy,Elderflower Crystal,150
+0119cf7d-f15a-4450-87bf-c47862c20580,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+0120a3a4-d81e-4ebe-ae2c-bb13fe603671,6,Women's Styles,Olive,Pearled Tortoise,95
+012aaeed-f8fb-47b8-b0b4-ee3c193ff466,4,Men's Styles,Dawes,Jet Black,150
+01371081-5176-49b3-988b-ebc984d8f912,7,Women's Styles,Lucy,Elderflower Crystal,150
+01bfb854-06c7-4b6c-a350-a9dda10a84f4,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+02cad226-5120-485b-a7e3-7ad6e5e9d9c7,5,Men's Styles,Monocle,Endangered Tortoise,50
+02e30e47-bea4-4658-9f7f-8035f4e1b37f,8,Women's Styles,Lucy,Jet Black,150
+02f23d7b-632b-4257-a557-df30dffc3de8,1,Men's Styles,Brady,Layered Tortoise Matte,95
+03e7d0af-9a7e-4a7c-8c52-dadb94da1716,2,Men's Styles,Brady,Sea Glass Gray,95
+05865913-eb3f-43bd-834d-21c55a547206,4,Men's Styles,Dawes,Jet Black,150
+0610741e-449f-403a-9ce0-81ccfbb09b51,7,Women's Styles,Lucy,Elderflower Crystal,150
+066ec74a-51cb-4da4-8bd9-18709f0de4fb,1,Men's Styles,Brady,Layered Tortoise Matte,95
+079363b6-b693-456a-bf27-79a16fa3328d,6,Women's Styles,Olive,Pearled Tortoise,95
+07cda62a-dab3-46ed-bcda-65a1200affc3,8,Women's Styles,Lucy,Jet Black,150
+07fb2d45-5992-4134-b595-c69ed6ac65e6,2,Men's Styles,Brady,Sea Glass Gray,95
+081bc6a6-cfa0-46ad-ba51-a1240019cf95,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+09369290-9cdc-4504-aae4-6d3c4c101af2,6,Women's Styles,Olive,Pearled Tortoise,95
+0946da04-9a3c-476c-adf1-00d3dfb9ec76,3,Men's Styles,Dawes,Driftwood Fade,150
+098c5616-a18d-4e0f-81f8-f2c64a3f111c,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+0a18b2c7-2d22-4b10-bb17-b2cbed3b6b23,8,Women's Styles,Lucy,Jet Black,150
+0a3d30dd-34fc-48b6-ba72-d130090f4dbd,6,Women's Styles,Olive,Pearled Tortoise,95
+0a583180-2e6d-454c-a7e4-a0d6909451ba,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+0a7c6cd5-7e49-45eb-b8bd-8e1db2cf74bb,7,Women's Styles,Lucy,Elderflower Crystal,150
+0aa41576-f5dc-438b-9cf3-a0d6f19b6849,5,Men's Styles,Monocle,Endangered Tortoise,50
+0af231dd-f0ae-4c04-8193-38d501e14da5,5,Men's Styles,Monocle,Endangered Tortoise,50
+0c414186-1592-4f86-8283-7ba78c85b926,8,Women's Styles,Lucy,Jet Black,150
+0c77d9b5-c7f6-4a91-b60e-9cc11d2ac5b6,8,Women's Styles,Lucy,Jet Black,150
+0cb58119-3cde-43dc-9cf2-b86a2314245d,1,Men's Styles,Brady,Layered Tortoise Matte,95
+0cb9ec91-32a9-4b5b-a828-fa15f35a844c,6,Women's Styles,Olive,Pearled Tortoise,95
+0e049740-77c7-4de0-a9e2-861c8f2c6ef9,8,Women's Styles,Lucy,Jet Black,150
+0f5211a5-d09c-4e23-a088-633b65c86e3f,2,Men's Styles,Brady,Sea Glass Gray,95
+0f6b4c74-7683-44bd-9208-915e52cd7a17,3,Men's Styles,Dawes,Driftwood Fade,150
+0f7d518b-56b0-4b87-9501-cd5741417e42,4,Men's Styles,Dawes,Jet Black,150
+0fc494e5-4421-4ffb-a057-a76ee9ffb07d,7,Women's Styles,Lucy,Elderflower Crystal,150
+10524ca6-f9d5-4f38-b316-164602b6c46b,7,Women's Styles,Lucy,Elderflower Crystal,150
+10992c98-81ef-492a-a96e-f317ef49fa3b,4,Men's Styles,Dawes,Jet Black,150
+11793cc1-c1ee-4d2f-8f43-a027a922d0d7,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+1188c3f2-f740-4f0c-8684-994553ef14c7,8,Women's Styles,Lucy,Jet Black,150
+124d138c-f655-4166-a3ee-5b49e2e794cf,4,Men's Styles,Dawes,Jet Black,150
+143041e7-8c37-4399-b54d-9115f234800b,1,Men's Styles,Brady,Layered Tortoise Matte,95
+14ade29e-59f4-4bda-b0f7-46e2a0372332,5,Men's Styles,Monocle,Endangered Tortoise,50
+1502b8f1-fca2-41eb-b393-3f52373095bc,7,Women's Styles,Lucy,Elderflower Crystal,150
+151374af-95b7-485b-bebd-f975c26a6911,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+152804db-c571-498f-97f0-73ecd2ed2e24,6,Women's Styles,Olive,Pearled Tortoise,95
+15b0707b-ebfe-49e2-baab-9fe531725b52,3,Men's Styles,Dawes,Driftwood Fade,150
+15fec4f4-cda3-4eff-8b74-4029bc3de3a8,5,Men's Styles,Monocle,Endangered Tortoise,50
+170f5a76-04f2-438d-a4b3-14270df58c38,3,Men's Styles,Dawes,Driftwood Fade,150
+1805768b-546b-4c4c-abaf-95dd4be0a4b1,6,Women's Styles,Olive,Pearled Tortoise,95
+18200545-836c-4e37-8647-19ff88a76d8f,6,Women's Styles,Olive,Pearled Tortoise,95
+188bcf8b-d333-4c65-8dd1-3210752f5ea4,1,Men's Styles,Brady,Layered Tortoise Matte,95
+18aec2e8-cf17-4c66-a711-962135877b4c,2,Men's Styles,Brady,Sea Glass Gray,95
+18ba714a-0ab6-41a5-b768-074bbbecabbd,7,Women's Styles,Lucy,Elderflower Crystal,150
+19cb4fb2-2616-40d0-83c5-3d6be0f05884,8,Women's Styles,Lucy,Jet Black,150
+19eb6113-44b5-40d3-966e-1c3ad75973fc,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+1a171422-d5ea-421b-b858-0925d9210e3b,7,Women's Styles,Lucy,Elderflower Crystal,150
+1b528c80-5c0e-430b-b6b4-0409c0f02b76,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+1b6c34de-9ed1-4ca6-b864-def41d6a09c4,8,Women's Styles,Lucy,Jet Black,150
+1bdf4b27-f1ec-401e-802f-d6b4f2b72372,7,Women's Styles,Lucy,Elderflower Crystal,150
+1d21af0f-6f06-4e10-bcde-cc2aec003471,5,Men's Styles,Monocle,Endangered Tortoise,50
+1da9d838-b305-4a37-a0ea-7cdfb2ad39a9,5,Men's Styles,Monocle,Endangered Tortoise,50
+1e207fee-ed79-4325-be43-4bc140401074,6,Women's Styles,Olive,Pearled Tortoise,95
+1edbba62-484f-45b8-8a5f-caf0afd13715,8,Women's Styles,Lucy,Jet Black,150
+1fef571b-e0c3-4154-b79d-2afc4636b6b9,1,Men's Styles,Brady,Layered Tortoise Matte,95
+2062e1b6-4dfe-4b9d-a1fd-a5cbcfd9ffa7,2,Men's Styles,Brady,Sea Glass Gray,95
+20745cb8-b846-46c8-9925-13cc82e57238,8,Women's Styles,Lucy,Jet Black,150
+211b6fe8-aafb-4406-ba76-dcf9363fa0d8,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+21ecfb36-8383-45b4-8c1d-07eb281f9225,1,Men's Styles,Brady,Layered Tortoise Matte,95
+2204e391-e74b-4452-9220-17bc75df25e5,4,Men's Styles,Dawes,Jet Black,150
+22f18cd7-3c3c-408f-b6b1-0064311b77de,3,Men's Styles,Dawes,Driftwood Fade,150
+231ffe7c-976a-4306-bfd4-6db67c5c6721,5,Men's Styles,Monocle,Endangered Tortoise,50
+249d7db3-add4-4e1e-b7bf-d1b29972f5b1,2,Men's Styles,Brady,Sea Glass Gray,95
+24a3bfec-121d-44cb-833d-b8899c066144,5,Men's Styles,Monocle,Endangered Tortoise,50
+25557162-e945-46b3-a2a6-ff49389ac304,6,Women's Styles,Olive,Pearled Tortoise,95
+255ae15d-fd6b-494a-9a47-2e441df6c5a0,7,Women's Styles,Lucy,Elderflower Crystal,150
+2629e415-9c2a-4c07-b402-a85b50528a3a,1,Men's Styles,Brady,Layered Tortoise Matte,95
+2660e84d-a652-4f95-91f3-3d283cb64cf5,1,Men's Styles,Brady,Layered Tortoise Matte,95
+26e818d0-ccb7-4fb1-85f0-5edcde9615e4,8,Women's Styles,Lucy,Jet Black,150
+2749076c-a25a-46a2-a478-4a91f4f12c4b,5,Men's Styles,Monocle,Endangered Tortoise,50
+2784b2b0-6d0a-419d-9494-bb3790436f39,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+27866aaa-80c0-4960-aeef-01648820e9f4,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+27d77063-9ab1-4408-807e-274f32a30ae1,5,Men's Styles,Monocle,Endangered Tortoise,50
+29243943-173a-4f67-84fa-84f1d076b29b,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+29c9c623-ffc8-43c6-a7ad-3b5b3ad842d4,8,Women's Styles,Lucy,Jet Black,150
+2a1cc1bd-894e-43a1-b210-e63d122078f3,7,Women's Styles,Lucy,Elderflower Crystal,150
+2a2dd222-34b3-4156-815b-5ea07f3b3874,5,Men's Styles,Monocle,Endangered Tortoise,50
+2a480638-d714-4305-ad05-d68afed575a9,4,Men's Styles,Dawes,Jet Black,150
+2a67bbdd-ac2c-40c2-9fac-c7ea49cbeb30,4,Men's Styles,Dawes,Jet Black,150
+2a8551e5-f70a-437f-8961-3a3756603875,8,Women's Styles,Lucy,Jet Black,150
+2b1a3042-bbcd-423f-b7a9-91d11b54f2de,2,Men's Styles,Brady,Sea Glass Gray,95
+2b237cb5-9fd4-4651-a9b0-03fb9213762c,7,Women's Styles,Lucy,Elderflower Crystal,150
+2c8f9a3b-c6eb-4cf7-a594-7230fd5d591d,8,Women's Styles,Lucy,Jet Black,150
+2cd0d472-5665-448a-99f1-bfeae3b1ad3b,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+2d2e0216-7116-4db6-937c-8991e38817b7,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+2d8b234c-79fc-44b6-9dfa-ed91c2f1d656,4,Men's Styles,Dawes,Jet Black,150
+2e42227e-6ca5-41f2-95ac-5cc21b54bf46,4,Men's Styles,Dawes,Jet Black,150
+2f3eb3cd-bbc5-4448-9dde-e177a3264b6c,7,Women's Styles,Lucy,Elderflower Crystal,150
+2f9424db-1355-4f3d-a79c-60c000c989ec,1,Men's Styles,Brady,Layered Tortoise Matte,95
+2fe047c8-940c-4c81-b1f0-47c6fc3567e4,8,Women's Styles,Lucy,Jet Black,150
+30307b23-43ec-4d7d-9336-01f438eeffdc,1,Men's Styles,Brady,Layered Tortoise Matte,95
+307ebc89-368f-4ffd-be84-8dc96dd65023,7,Women's Styles,Lucy,Elderflower Crystal,150
+311ed449-5686-4b04-9d58-6ec43d81f4b3,3,Men's Styles,Dawes,Driftwood Fade,150
+32345658-011d-4a45-b268-89844db3b881,5,Men's Styles,Monocle,Endangered Tortoise,50
+32a0527c-991b-4022-92ef-f6ed479ffa1f,1,Men's Styles,Brady,Layered Tortoise Matte,95
+34cad597-6f1e-4214-91b4-58bfa54794aa,4,Men's Styles,Dawes,Jet Black,150
+3668e7c0-ce5d-4d5d-a7b1-af93447464b7,7,Women's Styles,Lucy,Elderflower Crystal,150
+36b54f0d-3945-4421-99fb-a354b29365fe,8,Women's Styles,Lucy,Jet Black,150
+36ca2eaf-d14d-4c7e-bc25-30d46a7c6472,7,Women's Styles,Lucy,Elderflower Crystal,150
+36e1cee1-35fd-4197-80a8-519d7d94ef09,3,Men's Styles,Dawes,Driftwood Fade,150
+37193abb-a78a-45f5-83a0-acfc98c1b884,2,Men's Styles,Brady,Sea Glass Gray,95
+374c69e9-a78b-4c92-963c-6ba877a1528f,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+37a90dda-4356-4912-94b5-9a5d326614f4,8,Women's Styles,Lucy,Jet Black,150
+38003128-c07b-4fe7-9a22-e663c0b544ef,1,Men's Styles,Brady,Layered Tortoise Matte,95
+38c3a240-eb07-43e8-86a1-8cdab22d34a4,5,Men's Styles,Monocle,Endangered Tortoise,50
+3961fafa-20fb-456f-a0c2-188b5e923155,3,Men's Styles,Dawes,Driftwood Fade,150
+39c50db2-0a6d-4e47-9c5b-767332d63f2f,3,Men's Styles,Dawes,Driftwood Fade,150
+3a88fb4b-6643-4ec7-b9d9-63a36e6c0218,5,Men's Styles,Monocle,Endangered Tortoise,50
+3acc61c3-e1fb-49b5-998e-f8cd6c50d6ff,8,Women's Styles,Lucy,Jet Black,150
+3b437938-b02a-429f-b1e9-0a89dfb6834f,3,Men's Styles,Dawes,Driftwood Fade,150
+3bab9dfe-336f-48e0-a7e6-82b3593932e6,7,Women's Styles,Lucy,Elderflower Crystal,150
+3c051485-4f17-456b-b402-7be64ea053c8,8,Women's Styles,Lucy,Jet Black,150
+3cba3ab7-a7f6-44bc-8873-5efb4aaec3b5,8,Women's Styles,Lucy,Jet Black,150
+3d5c4e15-e9f7-4b38-9cf0-baa4d6f9b1c3,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+3dcfddb6-0ad6-4e23-b131-49d7f1092c3d,6,Women's Styles,Olive,Pearled Tortoise,95
+3e26ea14-7df8-4414-bce9-5625bd159a1b,3,Men's Styles,Dawes,Driftwood Fade,150
+40558a51-882d-4cc6-a03e-13a36f53a20f,1,Men's Styles,Brady,Layered Tortoise Matte,95
+405cc9ff-ad3e-4896-912f-87f640fdaf93,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+40606e04-4b90-49f8-80d5-34bb41b92ec9,2,Men's Styles,Brady,Sea Glass Gray,95
+42019ba8-4b9b-4145-b935-a5b86360e238,4,Men's Styles,Dawes,Jet Black,150
+4320651b-2bac-4533-b8e6-9c0b69b8df5e,2,Men's Styles,Brady,Sea Glass Gray,95
+43cdd2c7-7cf2-45e0-a90a-e0d4ca5f841e,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+4419bd94-e1b7-46b9-9a39-a2027e1be17a,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+44f10544-eee3-4bee-a8ab-9ecc4c6dacba,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+459f36c7-5f7e-4915-8603-fde4fd746269,1,Men's Styles,Brady,Layered Tortoise Matte,95
+4660d165-ff3c-490b-8653-f3b25bbc94a9,5,Men's Styles,Monocle,Endangered Tortoise,50
+46aa2474-0c33-4fc9-8b95-0c27f7d6aab1,2,Men's Styles,Brady,Sea Glass Gray,95
+46b6fb51-4d46-4208-bc51-084f1c6d6c17,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+47cdfd21-06f9-4485-9044-090d315bcdd6,2,Men's Styles,Brady,Sea Glass Gray,95
+4818f692-8de2-4844-8c18-d0cdbffe07f9,6,Women's Styles,Olive,Pearled Tortoise,95
+4918065f-ee68-4a43-a084-fc10a44235d1,7,Women's Styles,Lucy,Elderflower Crystal,150
+49e9f909-b2c7-45e0-9826-6156f11a235e,3,Men's Styles,Dawes,Driftwood Fade,150
+4addbed9-cf8f-4f73-8047-f5414d6cc24a,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+4c178750-1711-464e-a95e-896b5e3d52ea,5,Men's Styles,Monocle,Endangered Tortoise,50
+4d068c6f-d5a8-49f5-a055-6dc3d415502e,4,Men's Styles,Dawes,Jet Black,150
+4d0b9996-dfba-4eeb-a801-dcf7c636dcbb,8,Women's Styles,Lucy,Jet Black,150
+4d220b5d-e55b-4991-891a-f1df58b7afb5,1,Men's Styles,Brady,Layered Tortoise Matte,95
+4d2505d3-5170-4bb4-b745-73ff985732dd,4,Men's Styles,Dawes,Jet Black,150
+4d53bec8-b611-4538-9280-1bda25985492,4,Men's Styles,Dawes,Jet Black,150
+4fbb3ad2-5320-43b9-a896-5d319187b847,3,Men's Styles,Dawes,Driftwood Fade,150
+5056c6dd-7891-41f2-953d-d42087d97cc3,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+50741ea8-f71b-4075-be5e-9bfba9fe0a5c,5,Men's Styles,Monocle,Endangered Tortoise,50
+508fccd5-eae9-482c-b1b0-5a4707621f67,6,Women's Styles,Olive,Pearled Tortoise,95
+51457671-fe2f-457d-9be2-4805f2e8bd86,3,Men's Styles,Dawes,Driftwood Fade,150
+5166170f-8ec6-44ee-8701-2a54f13d71ce,5,Men's Styles,Monocle,Endangered Tortoise,50
+51a24345-b3fc-431c-9072-51bfa77c2b13,8,Women's Styles,Lucy,Jet Black,150
+52989224-36a9-4a49-9aeb-fc8cdcbaa02b,4,Men's Styles,Dawes,Jet Black,150
+534eae1a-9889-4b21-9258-5e93c899983f,2,Men's Styles,Brady,Sea Glass Gray,95
+538c0481-7c73-4429-b845-2860d7dbea3c,4,Men's Styles,Dawes,Jet Black,150
+5400d8fc-7783-4470-a93c-9e11041ccc18,6,Women's Styles,Olive,Pearled Tortoise,95
+5420b209-47ff-494e-bb17-d715d34ef80f,7,Women's Styles,Lucy,Elderflower Crystal,150
+550fdc5b-f3ba-4283-b2bf-16141d195151,7,Women's Styles,Lucy,Elderflower Crystal,150
+555254bd-93e4-4881-bdfc-cf91af799f71,4,Men's Styles,Dawes,Jet Black,150
+568ace46-c230-4b1d-a2e2-61f9ab8f4399,1,Men's Styles,Brady,Layered Tortoise Matte,95
+56a8e670-0df9-4687-9843-40c7a16cd1c4,4,Men's Styles,Dawes,Jet Black,150
+56d77c7d-bbf4-4a85-8e0d-bc7a75b6cc0f,8,Women's Styles,Lucy,Jet Black,150
+5896c0e7-c342-4c67-b56a-32b028d7b0c4,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+58c90d97-8949-415b-adcf-d7aee57671ae,1,Men's Styles,Brady,Layered Tortoise Matte,95
+597b59bb-53fa-427f-b231-b0630073df8b,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+5c40ee0e-8fd6-4226-8bd8-9c36648308ba,5,Men's Styles,Monocle,Endangered Tortoise,50
+5d11adc7-6e36-4560-a937-3b03cded7d37,1,Men's Styles,Brady,Layered Tortoise Matte,95
+5d16bfb3-8496-445c-a5fa-4d031c554aa5,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+5e0e8687-1de5-4a9c-a3bf-9529a3244d75,8,Women's Styles,Lucy,Jet Black,150
+5e48dae3-a6d7-483c-bdbb-ec3f908c27c6,1,Men's Styles,Brady,Layered Tortoise Matte,95
+5efdb392-9708-4883-af38-cf201db92ef6,6,Women's Styles,Olive,Pearled Tortoise,95
+5f350749-6f5c-470e-83bb-e96587303bca,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+5f4f70a9-1739-4536-8759-451006cbff6d,3,Men's Styles,Dawes,Driftwood Fade,150
+5f5b7753-f147-4125-a306-2d80dd32d7d9,6,Women's Styles,Olive,Pearled Tortoise,95
+60caa5cd-0178-44b6-bf67-a6b7c1d8fa48,6,Women's Styles,Olive,Pearled Tortoise,95
+60f6d508-8660-4e57-af0d-5df799254288,8,Women's Styles,Lucy,Jet Black,150
+617ff6d0-b9fe-40eb-ba87-fb3e8abdc8f4,4,Men's Styles,Dawes,Jet Black,150
+61c7bc17-d8a5-4c98-8cc9-58b4203f2b64,8,Women's Styles,Lucy,Jet Black,150
+626675a1-b14d-4426-a381-5817003a566c,2,Men's Styles,Brady,Sea Glass Gray,95
+62806531-09cf-4f71-9718-0aa97ecd3cfa,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+63998c25-1877-412c-9b36-1636d0b078f8,2,Men's Styles,Brady,Sea Glass Gray,95
+63ec9491-a873-432b-9223-0286467e1ac1,7,Women's Styles,Lucy,Elderflower Crystal,150
+6423f8cc-e0f7-4301-a14e-2ec4256d6db3,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+651b976f-1e44-4c12-9c1f-f5562e5833b2,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+6540ff04-f33c-423a-b2e2-c7b59f0568bd,1,Men's Styles,Brady,Layered Tortoise Matte,95
+65fab5e3-2521-431e-a5bf-bd4a7668857a,4,Men's Styles,Dawes,Jet Black,150
+665b3657-6603-4a33-aa87-d7b1642c08fd,7,Women's Styles,Lucy,Elderflower Crystal,150
+66bf9dd6-601b-453a-9ab0-968367e473a9,4,Men's Styles,Dawes,Jet Black,150
+672c3f1e-d6e2-4d8e-a50e-fcad899ee89d,5,Men's Styles,Monocle,Endangered Tortoise,50
+6922c126-2426-4c91-835c-295e9d3d2c5a,5,Men's Styles,Monocle,Endangered Tortoise,50
+698b0776-2b71-4192-af9d-e11c69f7a86d,6,Women's Styles,Olive,Pearled Tortoise,95
+69951beb-4dc8-4f1e-a4df-5fd76ef2f40d,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+69e40dad-2984-439a-b140-86be2f4069cc,1,Men's Styles,Brady,Layered Tortoise Matte,95
+6a4c4457-54ee-4495-ab19-53bc29e5b24b,7,Women's Styles,Lucy,Elderflower Crystal,150
+6a76d3b1-c782-4964-953e-9616de3ecf7d,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+6a9f5d65-4172-4931-9d19-3c7d47e430a1,2,Men's Styles,Brady,Sea Glass Gray,95
+6b7420e2-b9f1-45a4-b817-4dcc76737df7,8,Women's Styles,Lucy,Jet Black,150
+6b766c12-ba30-49bf-9d1d-02cc05c590d4,8,Women's Styles,Lucy,Jet Black,150
+6b78cb2a-d3df-41cd-8f63-7b9fd2085c30,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+6c6fd5b5-2781-44f1-a223-40c0592bb7b2,7,Women's Styles,Lucy,Elderflower Crystal,150
+6cfb8b94-178e-47a2-bd8b-9858a45e0dab,4,Men's Styles,Dawes,Jet Black,150
+6e1fa513-0564-478f-a5ec-38a640681194,1,Men's Styles,Brady,Layered Tortoise Matte,95
+707def3e-531e-403c-935c-9731e874e679,4,Men's Styles,Dawes,Jet Black,150
+7080ee31-7b45-49fa-9a44-3204bb266b71,4,Men's Styles,Dawes,Jet Black,150
+708af020-4273-45ca-8b3f-a0efaa846925,1,Men's Styles,Brady,Layered Tortoise Matte,95
+71d61658-1695-4a59-92ce-3f04bd4affd8,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+72767666-7037-45a2-a206-fafe8f82a27f,4,Men's Styles,Dawes,Jet Black,150
+72c8988c-ad0c-4d93-9989-4e28631eef8e,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+72d8bf42-6ed7-4c55-99c8-04cf2bd93f4a,3,Men's Styles,Dawes,Driftwood Fade,150
+736b9719-4e2b-49c6-8bbc-30d22be998d1,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+73f0f19c-b570-4301-b46a-f79d1f2d8323,5,Men's Styles,Monocle,Endangered Tortoise,50
+75ef7cd6-5168-4e92-a0d0-472ab315da69,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+761665fc-b53f-4a5e-ad76-38dfddbc4702,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+76aa1ef9-715f-40a8-99c8-9b5e5504881b,7,Women's Styles,Lucy,Elderflower Crystal,150
+7721a9f9-ee09-4404-9c79-d7d40d02b5f5,6,Women's Styles,Olive,Pearled Tortoise,95
+785d87f7-7381-4f64-99bb-e1ffc47913a1,7,Women's Styles,Lucy,Elderflower Crystal,150
+79b1d4c3-e6db-4a58-b907-affc82bef4b1,2,Men's Styles,Brady,Sea Glass Gray,95
+79f3da2a-facd-44a9-a4c1-d81256ea6840,7,Women's Styles,Lucy,Elderflower Crystal,150
+79f3e7d1-ae1f-4682-9564-4eeacea3c54c,7,Women's Styles,Lucy,Elderflower Crystal,150
+7b3a4255-2bcb-4c02-8d2a-f7655c1f60d9,8,Women's Styles,Lucy,Jet Black,150
+7b85f45a-d049-4408-b26a-d7b86c5df03b,8,Women's Styles,Lucy,Jet Black,150
+7babfb83-1b7a-45ac-a1fc-1b5eb37da841,3,Men's Styles,Dawes,Driftwood Fade,150
+7cbffd9f-516b-418f-a9ea-8c0ac95a1f3d,8,Women's Styles,Lucy,Jet Black,150
+7cc74c0f-aea7-45a2-978b-2c35a8e6ff95,5,Men's Styles,Monocle,Endangered Tortoise,50
+7e4bf64c-4032-4b1d-9fa3-85eed6aa5261,1,Men's Styles,Brady,Layered Tortoise Matte,95
+7e9de607-9ecc-42c0-b8df-19f277324abf,6,Women's Styles,Olive,Pearled Tortoise,95
+7eac3a6a-51a2-4d36-b868-cbeea0878b96,1,Men's Styles,Brady,Layered Tortoise Matte,95
+7eb94e0e-14a4-4a37-ae71-618bec3be74b,1,Men's Styles,Brady,Layered Tortoise Matte,95
+7f781073-bed1-4796-a74c-b3e9337a14a9,2,Men's Styles,Brady,Sea Glass Gray,95
+8021ddb1-171e-4844-adea-cd2e51a90c6b,1,Men's Styles,Brady,Layered Tortoise Matte,95
+808f527e-51fd-42c6-b2a2-a2dad7133a0b,8,Women's Styles,Lucy,Jet Black,150
+80f8bcc4-407a-478d-a326-4492854f4883,2,Men's Styles,Brady,Sea Glass Gray,95
+80f9c7a6-cc97-45a6-84a3-4e1e8b4cb061,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+81b7b041-d0ae-4144-ac64-b2b000dfb83d,4,Men's Styles,Dawes,Jet Black,150
+8239741b-e0c1-447d-9f0f-197d1c7f29fb,1,Men's Styles,Brady,Layered Tortoise Matte,95
+840ec2b7-8b10-45ee-b406-1df86675d5a8,3,Men's Styles,Dawes,Driftwood Fade,150
+8428125d-f18f-444f-8e48-9584737bb43f,2,Men's Styles,Brady,Sea Glass Gray,95
+847cc806-23ef-4b64-aa58-162a4a95f66b,8,Women's Styles,Lucy,Jet Black,150
+84b4e7c5-edb8-4e32-90cc-f620017e40a8,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+84ded172-2c88-48a5-a5b2-595d793cb75d,4,Men's Styles,Dawes,Jet Black,150
+84f7e10d-65cc-434b-8a49-f42bc2f7de74,4,Men's Styles,Dawes,Jet Black,150
+86473fc5-64ad-4793-bd6b-49122029ba08,5,Men's Styles,Monocle,Endangered Tortoise,50
+867b4ba2-6aa8-47da-97c6-1d2e4d0f16a1,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+87485aaf-60ec-4f67-a10a-645b75da37a1,8,Women's Styles,Lucy,Jet Black,150
+875cc7c9-de5b-4176-b4b9-31db2feb3c27,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+877c78ec-5f6a-4979-ad42-b08404f7048b,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+897b6fe7-22b0-4aaf-b508-ac7eb59b5f35,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+89c4e0cc-f9bc-46c9-88a0-8b3a6dda1b10,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+89e2f890-304c-48d3-a706-d3a38118533c,2,Men's Styles,Brady,Sea Glass Gray,95
+8a646fe0-0caa-4c06-8179-7fa87aa3b33e,4,Men's Styles,Dawes,Jet Black,150
+8b4840de-751c-4149-bb29-03dcb5c41a74,5,Men's Styles,Monocle,Endangered Tortoise,50
+8c13d220-ac47-4a6c-8c79-9275fbe3c924,6,Women's Styles,Olive,Pearled Tortoise,95
+8e52eb7b-1a60-4747-bba4-a704fa67451c,7,Women's Styles,Lucy,Elderflower Crystal,150
+8f7f40a0-aa55-460f-a9dd-177b2af95668,6,Women's Styles,Olive,Pearled Tortoise,95
+8f81d7a3-5fc7-468b-a987-cf992f4e57ab,7,Women's Styles,Lucy,Elderflower Crystal,150
+8fdfa7bb-10e8-43d4-942f-6bb1f174c8b8,2,Men's Styles,Brady,Sea Glass Gray,95
+8fe74fea-4e52-4dbf-9141-62026fb86136,7,Women's Styles,Lucy,Elderflower Crystal,150
+8fe85f04-4312-446a-8c1d-aa31b62b662d,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+9173a444-d354-4861-9493-d984963c9bd1,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+92432361-2b11-40ca-bfde-2b7a7dba71a0,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+926bcbbd-1dba-42f3-9317-bec9e824ac3e,6,Women's Styles,Olive,Pearled Tortoise,95
+93b6a481-1422-4d54-a6a0-939340f5179e,5,Men's Styles,Monocle,Endangered Tortoise,50
+94d04ed3-4fdb-4f3a-a38d-1782abdbd70e,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+9500774e-1c64-4530-9710-1ddba1f015b8,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+951d5853-dd6e-4d34-afc9-117175d70421,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+964c1ba9-ed71-4029-9dc8-75571a7ad7f0,7,Women's Styles,Lucy,Elderflower Crystal,150
+968467ae-5430-4a11-9fb8-abf15798f886,2,Men's Styles,Brady,Sea Glass Gray,95
+97186edc-efc4-44d5-9a41-dc3a23ae6d24,8,Women's Styles,Lucy,Jet Black,150
+974a03c0-30a4-49e5-9492-7d762432a266,3,Men's Styles,Dawes,Driftwood Fade,150
+97b61b70-c0b1-41df-b2b7-56082b6eb439,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+9812334b-2519-41b3-8efe-0406a7ecb0a3,5,Men's Styles,Monocle,Endangered Tortoise,50
+98574def-ed99-4fdb-9dc9-ecfbe6bfafc9,7,Women's Styles,Lucy,Elderflower Crystal,150
+9867f35e-eb56-4ef2-a8bb-71772c66eaed,5,Men's Styles,Monocle,Endangered Tortoise,50
+987f9599-7b55-469d-8ac3-c2660557e3d3,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+98f0a275-7e71-437e-b987-a99fbc81598b,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+991b4e57-a368-48ba-b300-954d38ca454f,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+9aa68dc1-fadf-4512-91c0-817381d3630e,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+9ab9de33-b199-446f-a743-1faeacf2697c,3,Men's Styles,Dawes,Driftwood Fade,150
+9b7ed315-6708-4640-860a-43c41ccec918,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+9bc3366b-e22e-4539-a673-bf4ad3e4a2b4,2,Men's Styles,Brady,Sea Glass Gray,95
+9c5e94f1-2ce8-4918-a21c-6592883be9eb,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+9ca9e603-72e4-43b2-b8a9-ff5d2febde9c,5,Men's Styles,Monocle,Endangered Tortoise,50
+9d712fd8-d662-42d1-8ec0-e04ef0fd8178,3,Men's Styles,Dawes,Driftwood Fade,150
+9ecdef33-7e72-43a2-b7c8-5f6ecbeeb150,4,Men's Styles,Dawes,Jet Black,150
+9ed08560-6654-4b86-a6de-ff58cfb6e35e,1,Men's Styles,Brady,Layered Tortoise Matte,95
+9f39e1b8-8172-478a-ae1c-c4cefc32f76e,3,Men's Styles,Dawes,Driftwood Fade,150
+9fbacd16-9f55-4c9a-a5dc-fbe876d8e144,8,Women's Styles,Lucy,Jet Black,150
+a017c75e-e53f-40fa-9c93-a510fb25a747,1,Men's Styles,Brady,Layered Tortoise Matte,95
+a095883a-078d-4c0b-8111-acf8daf07f11,8,Women's Styles,Lucy,Jet Black,150
+a0add57b-f0f4-480a-8bcf-fd5040a79803,3,Men's Styles,Dawes,Driftwood Fade,150
+a1687117-3fa4-47c1-91f3-16b79c89762e,5,Men's Styles,Monocle,Endangered Tortoise,50
+a1bfe297-a677-4c21-b5ae-d9082e08da9a,6,Women's Styles,Olive,Pearled Tortoise,95
+a1ccdd88-af3e-4d1d-8d49-2d9ef33d1cab,4,Men's Styles,Dawes,Jet Black,150
+a21026ed-6ece-4307-b75c-67ae32793d91,7,Women's Styles,Lucy,Elderflower Crystal,150
+a26793cc-30b0-4093-ab4d-8e905d68a000,4,Men's Styles,Dawes,Jet Black,150
+a28d5e96-30b6-4368-8f79-9cec16c776c0,8,Women's Styles,Lucy,Jet Black,150
+a2ce4742-b87d-4775-8ffa-e2a40141bccc,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+a31ecf79-cd77-4481-849e-4a6438c064f6,1,Men's Styles,Brady,Layered Tortoise Matte,95
+a3c131c1-d1d0-41da-b58b-e6f4b9c8b0c8,3,Men's Styles,Dawes,Driftwood Fade,150
+a4595f35-3032-4579-9725-b1abcd5a67a4,2,Men's Styles,Brady,Sea Glass Gray,95
+a4703d99-fbcb-424c-9c84-3b0ec654f189,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+a4aac0b7-eb72-46b5-b7d4-2b7f623ff2e5,5,Men's Styles,Monocle,Endangered Tortoise,50
+a4f66ecf-a3c0-415f-8a3b-86f13729dba2,1,Men's Styles,Brady,Layered Tortoise Matte,95
+a52af196-dd6d-44ec-b02d-05bd352c5e48,3,Men's Styles,Dawes,Driftwood Fade,150
+a749c340-2474-41d5-9180-2e3bd710066f,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+a822d32c-2153-47a4-bae4-4262e694f807,8,Women's Styles,Lucy,Jet Black,150
+a843a290-9753-43a9-881e-59a5cabfa6a9,4,Men's Styles,Dawes,Jet Black,150
+a8dc442f-ec68-463e-be9f-dd012a16a9b0,1,Men's Styles,Brady,Layered Tortoise Matte,95
+a91fc214-71d0-418a-8aa8-be20e301f832,6,Women's Styles,Olive,Pearled Tortoise,95
+a99aff66-15e5-4330-af3c-ba2f45faff05,2,Men's Styles,Brady,Sea Glass Gray,95
+aa358ebd-938c-48c3-bff4-5300f9fe9997,8,Women's Styles,Lucy,Jet Black,150
+aa44ab9a-06de-4efb-bd2d-a64c678179d9,4,Men's Styles,Dawes,Jet Black,150
+ab385780-cb19-456f-8580-bb01ebeb4251,2,Men's Styles,Brady,Sea Glass Gray,95
+abc25fd8-8b01-4ad0-841e-d7017918472e,2,Men's Styles,Brady,Sea Glass Gray,95
+ad535b73-e9bb-4ca8-a95d-97dc37a50e99,7,Women's Styles,Lucy,Elderflower Crystal,150
+ada3ffb1-cc5b-44c3-8b11-d972d5edc203,8,Women's Styles,Lucy,Jet Black,150
+ae9d5c16-65af-47bc-a5c6-3ff97f95c625,8,Women's Styles,Lucy,Jet Black,150
+af2280a9-e25c-424a-b307-eba3a091c18d,6,Women's Styles,Olive,Pearled Tortoise,95
+af57f3d0-1b9a-441f-a48e-b7486b8085d0,6,Women's Styles,Olive,Pearled Tortoise,95
+afa57060-93ba-47c1-ae28-f68dbae5f7da,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+afaf21ed-62e2-4c8c-a644-a73dbafae8aa,1,Men's Styles,Brady,Layered Tortoise Matte,95
+afc82694-54cc-494e-bbc8-1b0e82a7a89d,7,Women's Styles,Lucy,Elderflower Crystal,150
+b01ba01b-6ca7-4d58-99f0-ac6c9f38b967,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+b0880640-1c2a-4e99-bcd3-4e0d19c03fe9,5,Men's Styles,Monocle,Endangered Tortoise,50
+b0b7923a-638e-4e6a-90ac-5540c5e8e29f,8,Women's Styles,Lucy,Jet Black,150
+b1062402-d208-479c-900c-1261b822f7f3,5,Men's Styles,Monocle,Endangered Tortoise,50
+b118233e-60a0-47c7-94f8-fe5608aa1e7c,7,Women's Styles,Lucy,Elderflower Crystal,150
+b36655c0-d976-4b7a-b496-c71762b14ea3,1,Men's Styles,Brady,Layered Tortoise Matte,95
+b3c20b7c-b852-46bf-bd64-aa6cdbfd9eca,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+b3df0312-d585-4c0e-bce3-551d75f6b01d,4,Men's Styles,Dawes,Jet Black,150
+b4016665-08f8-4c0d-8d5a-56b18c87e975,3,Men's Styles,Dawes,Driftwood Fade,150
+b56c0775-fe08-4b86-8910-f4fb7d45f3f5,5,Men's Styles,Monocle,Endangered Tortoise,50
+b588bb4c-8547-444f-b64b-0655d946f978,6,Women's Styles,Olive,Pearled Tortoise,95
+b5988330-7f6a-4e79-b03d-72b0b1573368,4,Men's Styles,Dawes,Jet Black,150
+b94ede95-2742-4aeb-9b52-883af7c12c83,4,Men's Styles,Dawes,Jet Black,150
+b9e4ee0f-3c71-4d7b-b1a7-794a2a3ce938,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+bab2e3fc-5559-41c3-a6d7-5022950643e0,1,Men's Styles,Brady,Layered Tortoise Matte,95
+bae340b3-8f78-4bf6-9809-e56c5ed75a4b,4,Men's Styles,Dawes,Jet Black,150
+bb291e46-cdff-4b29-b2cf-9c662a0b86bd,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+bbe01866-e469-4109-8249-6ec52475faa5,8,Women's Styles,Lucy,Jet Black,150
+bc12b57d-4f0d-4187-a8d6-154f1d3cb864,1,Men's Styles,Brady,Layered Tortoise Matte,95
+bc625e11-a2bb-4fae-9cf4-0e1d19ae5b96,6,Women's Styles,Olive,Pearled Tortoise,95
+bcc2c6c6-2606-401e-990a-f5a23dd83fea,7,Women's Styles,Lucy,Elderflower Crystal,150
+bd5ad508-50e7-4db7-973a-1b280b3c2c22,1,Men's Styles,Brady,Layered Tortoise Matte,95
+bdc6acf8-f87c-40cd-a0db-d687eb99afc1,5,Men's Styles,Monocle,Endangered Tortoise,50
+be0f9aa0-b0cc-4faf-b053-4013a00956c0,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+be5d8d0b-9761-4e38-996a-b4d68cf362e9,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+bee1079e-f1d2-4c7f-8d38-9f7731c97260,1,Men's Styles,Brady,Layered Tortoise Matte,95
+bf144c5c-870e-453d-a368-7364dd802adf,4,Men's Styles,Dawes,Jet Black,150
+bf29cd8a-a1ec-4d3c-aee6-d0341591b324,8,Women's Styles,Lucy,Jet Black,150
+bf557323-097c-4156-8781-5fe8dde446a1,7,Women's Styles,Lucy,Elderflower Crystal,150
+bf5bf790-aeb0-4e1e-8742-58ec0ffbc6a8,8,Women's Styles,Lucy,Jet Black,150
+bf93dda0-1d01-4a6d-b4aa-aaaf903ac5b9,8,Women's Styles,Lucy,Jet Black,150
+bfda234c-ef99-4ba2-b59e-a3afd7512d06,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+c0eb7540-64c1-4fe7-af1a-037c4c7aa8cb,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+c3d78ea7-eb03-41c6-be31-81b0c2d94aea,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+c4498ea2-190b-49d4-96c0-0bd3c96e35b0,3,Men's Styles,Dawes,Driftwood Fade,150
+c4d14e78-864b-4eb8-8454-d4b46ad48dcd,7,Women's Styles,Lucy,Elderflower Crystal,150
+c562f7ce-9f71-443d-906f-556e4b5be655,8,Women's Styles,Lucy,Jet Black,150
+c57b2de9-48e7-40e4-b3ec-e3fff1bb539d,7,Women's Styles,Lucy,Elderflower Crystal,150
+c5daf910-d372-4c46-ae42-59c04084ff69,2,Men's Styles,Brady,Sea Glass Gray,95
+c5f43bc4-3a23-45d1-989f-79c8460e5dda,5,Men's Styles,Monocle,Endangered Tortoise,50
+c64026bf-7353-4c63-9d32-e7c836f972f3,6,Women's Styles,Olive,Pearled Tortoise,95
+c6dcb286-ac62-44b8-bf9a-3c522a75a5ad,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+c6f47ff8-8852-48d9-8e48-227c1b71d03f,2,Men's Styles,Brady,Sea Glass Gray,95
+c848311e-ca88-4e76-a7ab-e213ab0cf494,2,Men's Styles,Brady,Sea Glass Gray,95
+c8d9a2c2-d38b-4421-8320-72b81db2fc80,4,Men's Styles,Dawes,Jet Black,150
+c90356be-23f8-4c35-b5a4-e77fababd7f4,4,Men's Styles,Dawes,Jet Black,150
+c9426eae-71c0-4c24-aaf2-7c8593682c3c,2,Men's Styles,Brady,Sea Glass Gray,95
+ca4e1ac2-9687-4a10-b835-1bc5f372b1be,4,Men's Styles,Dawes,Jet Black,150
+ca581187-8d80-442c-bfcc-5225e2d78841,4,Men's Styles,Dawes,Jet Black,150
+cb0ddc47-0b3c-4315-89e0-a16f66c2b629,4,Men's Styles,Dawes,Jet Black,150
+cc31fde9-cdd3-4ef7-badc-d5fdc12c2dd0,4,Men's Styles,Dawes,Jet Black,150
+ccd427e8-35bc-466b-8550-5943219de137,5,Men's Styles,Monocle,Endangered Tortoise,50
+cd303c07-5abd-466b-9608-f9963fcd2e7c,5,Men's Styles,Monocle,Endangered Tortoise,50
+cd7bedf0-670c-4f81-b5c8-f5eb8c62298c,4,Men's Styles,Dawes,Jet Black,150
+cf45b8c3-0b48-4a0b-a06e-659ef5c8f531,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+cf485cc9-2fc6-4caa-a4fa-f2ef410e0d89,7,Women's Styles,Lucy,Elderflower Crystal,150
+cfb44e0f-f067-43be-8bc8-8f740c20d503,1,Men's Styles,Brady,Layered Tortoise Matte,95
+cfdb814c-c825-40b1-a93c-fc3419fb2f69,4,Men's Styles,Dawes,Jet Black,150
+d0ee07f3-ccf9-4cf2-a91f-de9ab9ab817b,3,Men's Styles,Dawes,Driftwood Fade,150
+d148ea05-26b1-4157-9964-51911eb5cab1,5,Men's Styles,Monocle,Endangered Tortoise,50
+d54d6483-3562-4d77-9aca-b9258794d508,6,Women's Styles,Olive,Pearled Tortoise,95
+d592d6d4-d447-4089-8eea-482c757aa7bd,2,Men's Styles,Brady,Sea Glass Gray,95
+d6664a1b-2c31-4736-be8d-b15e6895c487,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+d66dcf7e-112d-4a86-bb26-61b2add9cb11,1,Men's Styles,Brady,Layered Tortoise Matte,95
+d75d0954-16ef-4f47-9d66-8974546873cd,8,Women's Styles,Lucy,Jet Black,150
+d7c08c9e-0e46-4032-88ca-070d089ec70d,4,Men's Styles,Dawes,Jet Black,150
+d898c22e-1a20-45e9-8c62-784dfb420b16,7,Women's Styles,Lucy,Elderflower Crystal,150
+d963bc8e-30bd-445c-83b2-ea3771f74184,7,Women's Styles,Lucy,Elderflower Crystal,150
+da1194b5-9ad8-40d8-b0cc-22795aaa56ff,1,Men's Styles,Brady,Layered Tortoise Matte,95
+db68af8f-a8ef-497e-b3a8-6e64ae626f5c,5,Men's Styles,Monocle,Endangered Tortoise,50
+dbd896cc-5654-40ce-ad6a-90d7f724ddac,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+dbebd3b5-ef9b-4b31-9ca7-be6318ce48e7,4,Men's Styles,Dawes,Jet Black,150
+dddd00ea-b192-4907-85d8-c1d98f300e0f,6,Women's Styles,Olive,Pearled Tortoise,95
+dde631b5-3763-42cb-aab0-dc3ca6367f03,4,Men's Styles,Dawes,Jet Black,150
+de00a201-c9ae-46e0-970a-300b16da259e,7,Women's Styles,Lucy,Elderflower Crystal,150
+df51e5d6-07ff-4f63-976b-eceabe8e377a,1,Men's Styles,Brady,Layered Tortoise Matte,95
+df6ab15d-02b2-43d4-8627-d40c4f9d9d27,2,Men's Styles,Brady,Sea Glass Gray,95
+e03f5cb3-e6ba-490b-9a34-834a8eb53454,8,Women's Styles,Lucy,Jet Black,150
+e1c46231-4c11-4821-8f31-38f58b4a3397,6,Women's Styles,Olive,Pearled Tortoise,95
+e20d5ac4-521f-4197-b0ef-0288b1df8ef5,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+e2835cf7-d22e-4ca4-ae64-9a124dde24d7,3,Men's Styles,Dawes,Driftwood Fade,150
+e2ef0dac-4a45-40df-bce1-39a8e7d05b5c,6,Women's Styles,Olive,Pearled Tortoise,95
+e38268a9-e673-4848-af4d-b53977971550,3,Men's Styles,Dawes,Driftwood Fade,150
+e3d6e350-34a0-471e-bd70-3f377ed0faad,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+e445dadd-8c67-4aa9-9876-e767b5331e98,5,Men's Styles,Monocle,Endangered Tortoise,50
+e519b6ba-c474-43ef-b89c-3686da71760b,5,Men's Styles,Monocle,Endangered Tortoise,50
+e55c657f-3fd1-43e8-beb0-de2ce8418f21,1,Men's Styles,Brady,Layered Tortoise Matte,95
+e5a893e1-af47-42f8-b62d-36a66aa940c3,7,Women's Styles,Lucy,Elderflower Crystal,150
+e71732d4-5cb1-4e3d-8b9a-9bdd29aaef68,2,Men's Styles,Brady,Sea Glass Gray,95
+e748037c-34a3-4670-b0cd-3bd5d61160f3,2,Men's Styles,Brady,Sea Glass Gray,95
+e7712e7f-166e-49c4-b847-da57be710dda,4,Men's Styles,Dawes,Jet Black,150
+e7a9732d-616c-40f2-a8a6-37feaafc1028,2,Men's Styles,Brady,Sea Glass Gray,95
+e7e97158-40e7-4c90-af3e-7936f16ba9e6,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+e8d09cca-3bce-465b-9f3d-2ff8ae7c8ab7,2,Men's Styles,Brady,Sea Glass Gray,95
+e9044d6d-0616-4530-94d9-3ef1bbc72d54,5,Men's Styles,Monocle,Endangered Tortoise,50
+e9879bb2-6a0b-4f9f-b052-df37ac9041ab,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+e9c428c5-290b-4625-b7d4-6ac48208c657,8,Women's Styles,Lucy,Jet Black,150
+e9e43c2d-dddd-4a80-a655-23c840e4febb,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+ea4e772c-0f28-4802-9932-04691007ae82,1,Men's Styles,Brady,Layered Tortoise Matte,95
+eabb0ada-2264-47f9-9ec8-112cf9528088,8,Women's Styles,Lucy,Jet Black,150
+eabe02ec-67b8-483b-9771-e88aec7f8376,6,Women's Styles,Olive,Pearled Tortoise,95
+eb0fd99f-92f7-49c9-898f-0b81ef617a88,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+eb456d45-aa8c-46ed-9db5-7aebc42c0ae0,1,Men's Styles,Brady,Layered Tortoise Matte,95
+eb511280-9813-4adf-8aaf-8b13971f26dc,8,Women's Styles,Lucy,Jet Black,150
+eb84fcd6-ed1e-471c-bf8c-76b19beb937b,6,Women's Styles,Olive,Pearled Tortoise,95
+ebd389b9-251a-43d7-a41a-94c416fefaa7,7,Women's Styles,Lucy,Elderflower Crystal,150
+ebf51f39-4c4f-47e4-a516-25a89cba7207,4,Men's Styles,Dawes,Jet Black,150
+ec598a1e-b1bd-4368-b862-c472dbebec40,1,Men's Styles,Brady,Layered Tortoise Matte,95
+eca9d379-1a0f-4196-83fc-e834cc357b94,3,Men's Styles,Dawes,Driftwood Fade,150
+ed0c4276-9b7e-48ee-b6f0-5862b5c47001,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+ed425b7d-d704-4a4a-9695-2bf0271ceb80,7,Women's Styles,Lucy,Elderflower Crystal,150
+ede65873-62cb-4641-bee7-42b1dfc51930,8,Women's Styles,Lucy,Jet Black,150
+edf05eba-2710-4143-9fe7-f254ed684e86,1,Men's Styles,Brady,Layered Tortoise Matte,95
+ee178169-ed62-46a0-ad25-88d5d3480a46,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+ee187b7d-1d51-4ebd-89a8-6e50e85e5faa,2,Men's Styles,Brady,Sea Glass Gray,95
+ef36b6e2-0b1a-4f7f-9e1a-d6bc499cc2fb,4,Men's Styles,Dawes,Jet Black,150
+ef4d0704-d3fc-4b14-aba1-473864f708dc,1,Men's Styles,Brady,Layered Tortoise Matte,95
+f0d140d1-a6a2-42d1-93a2-b795c3bc834f,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+f0fc2b18-097d-4b6e-b769-6b30defdb5b2,6,Women's Styles,Olive,Pearled Tortoise,95
+f108a832-1cf7-412a-8fe5-2f25b81983a0,8,Women's Styles,Lucy,Jet Black,150
+f10e7fcd-edc3-4ac5-a2b0-a4cee623966e,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+f1403cc6-482e-46e3-9514-06dae4eaebff,1,Men's Styles,Brady,Layered Tortoise Matte,95
+f19c1d11-0baf-415e-9771-b6e88d1dee27,7,Women's Styles,Lucy,Elderflower Crystal,150
+f1eff90f-9985-41cc-a57c-1e193a3f6793,2,Men's Styles,Brady,Sea Glass Gray,95
+f361c567-4994-47a9-892b-b429d0ddb4d7,4,Men's Styles,Dawes,Jet Black,150
+f3a01a9a-196a-4eb4-a5a9-2cc7605dba4d,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+f45b4321-54e6-4277-9523-32379aac569e,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+f4b59b95-3dcf-402a-8db5-4d735df2c674,5,Men's Styles,Monocle,Endangered Tortoise,50
+f543714a-77d5-4d3f-9b92-7c548ae5390d,7,Women's Styles,Lucy,Elderflower Crystal,150
+f547d775-53fa-475c-84e4-d8860962d0ce,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+f5798576-6174-402d-bb69-63941056fc82,4,Men's Styles,Dawes,Jet Black,150
+f60b8c2a-08b7-47f2-b3bf-28b558c005e6,7,Women's Styles,Lucy,Elderflower Crystal,150
+f6a1a3eb-83d9-43e1-9c29-88b53bd919e1,4,Men's Styles,Dawes,Jet Black,150
+f6a5e326-202d-41e8-935a-521fe08979ea,3,Men's Styles,Dawes,Driftwood Fade,150
+f6dca021-2cfb-4bbe-a08c-591a230a379e,10,Women's Styles,Eugene Narrow,Rosewood Tortoise,95
+f7b5fe06-1e87-465b-a64a-8ed435e1541f,6,Women's Styles,Olive,Pearled Tortoise,95
+f7cf50aa-8564-480d-9726-f2beb43fafa2,1,Men's Styles,Brady,Layered Tortoise Matte,95
+f82be00a-3ad9-4204-88f0-993ec3ddb64c,8,Women's Styles,Lucy,Jet Black,150
+f85f4cad-26bc-4e16-a9dd-9c421a82436b,9,Women's Styles,Eugene Narrow,Rose Crystal,95
+f8f89c57-dca0-4c0d-8410-b5af27a98736,4,Men's Styles,Dawes,Jet Black,150
+f928ea8f-462d-403f-9b79-f3104b6636f4,5,Men's Styles,Monocle,Endangered Tortoise,50
+f9a7b196-3fa9-45a6-bdf9-612676e8582c,5,Men's Styles,Monocle,Endangered Tortoise,50
+f9d47ad7-77f5-4fec-b28b-7bff7b2346c0,3,Men's Styles,Dawes,Driftwood Fade,150
+fa66ee8d-7327-42cb-9bea-d0ad37bf566d,3,Men's Styles,Dawes,Driftwood Fade,150
+faa7b179-77d7-4bef-97e3-2c38d3c77547,1,Men's Styles,Brady,Layered Tortoise Matte,95
+fb1d549b-03a9-4fd4-80f2-bec0e781ce1c,8,Women's Styles,Lucy,Jet Black,150
+fc0a2a5c-9009-41e9-8dfc-ee670b6691f3,1,Men's Styles,Brady,Layered Tortoise Matte,95
+fd80accb-c5df-4ecd-adb5-09b06b0ecd7d,2,Men's Styles,Brady,Sea Glass Gray,95
+fddc7372-c5f9-4f79-85e0-4e181a6e1935,4,Men's Styles,Dawes,Jet Black,150
+fe5965b3-7f19-4a71-931a-b470c54a7004,6,Women's Styles,Olive,Pearled Tortoise,95
+fe8b2e6c-7038-46f7-859c-2eded5f057c6,9,Women's Styles,Eugene Narrow,Rose Crystal,95
